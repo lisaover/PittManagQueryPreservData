@@ -1,0 +1,4 @@
+location,location_name,street_address,city,state,zipcode,location_id
+D,Dunkin Donuts,3907 Forbes Ave,Pittsburgh,PA,15123,1
+N,Noodles & Company,3805 Forbes Ave,Pittsburgh,PA,15123,2
+P,Panera Bread,3800 Forbes Ave,Pittsburgh,PA,15123,3
