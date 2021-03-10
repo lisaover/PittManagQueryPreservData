@@ -19,8 +19,7 @@ USE `ross_db` ;
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `ross_db`.`artists` (
   `artist_id` INT NOT NULL,
-  `first_name` VARCHAR(20) NOT NULL,
-  `last_name` VARCHAR(30) NOT NULL,
+  `artist_name` VARCHAR(20) NOT NULL,
   `relationship` VARCHAR(20) NOT NULL,
   PRIMARY KEY (`artist_id`))
 ENGINE = InnoDB;
@@ -62,8 +61,8 @@ CREATE TABLE IF NOT EXISTS `ross_db`.`features_in_paintings` (
   `episode_id` INT NOT NULL,
   `feature_id` INT NOT NULL,
   PRIMARY KEY (`season_id`, `episode_id`, `feature_id`),
-  INDEX `fk_features_in_paintings_episodes1_idx` (`season_id` ASC, `episode_id` ASC) VISIBLE,
-  INDEX `fk_features_in_paintings_features1_idx` (`feature_id` ASC) VISIBLE,
+  INDEX `fk_features_in_painting_episodes1_idx` (`season_id` ASC, `episode_id` ASC) VISIBLE,
+  INDEX `fk_features_in_painting_features1_idx` (`feature_id` ASC) VISIBLE,
   CONSTRAINT `fk_features_in_paintings_episodes`
     FOREIGN KEY (`season_id` , `episode_id`)
     REFERENCES `ross_db`.`episodes` (`season_id` , `episode_id`)
