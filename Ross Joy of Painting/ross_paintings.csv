@@ -1,404 +1,404 @@
 season,episode,title,artist_id
-1,1,A WALK IN THE WOODS,1
-1,2,MT. MCKINLEY,1
-1,3,EBONY SUNSET,1
-1,4,WINTER MIST,1
-1,5,QUIET STREAM,1
-1,6,WINTER MOON,1
-1,7,AUTUMN MOUNTAINS,1
-1,8,PEACEFUL VALLEY,1
-1,9,SEASCAPE,1
-1,10,MOUNTAIN LAKE,1
-1,11,WINTER GLOW,1
-1,12,SNOWFALL,1
-1,13,FINAL REFLECTIONS,1
-2,1,MEADOW LAKE,1
-2,2,WINTER SUN,1
-2,3,EBONY SEA,1
-2,4,SHADES OF GREY,1
-2,5,AUTUMN SPLENDOR,1
-2,6,BLACK RIVER,1
-2,7,BROWN MOUNTAIN,1
-2,8,REFLECTIONS,1
-2,9,BLACK & WHITE SEASCAPE,1
-2,10,LAZY RIVER,1
-2,11,BLACK WATERFALL,1
-2,12,MOUNTAIN WATERFALL,1
-2,13,FINAL GRACE,1
-3,1,MOUNTAIN RETREAT,1
-3,2,BLUE MOON,1
-3,3,BUBBLING STREAM,1
-3,4,WINTER NIGHT,1
-3,5,DISTANT HILLS,1
-3,6,COVERED BRIDGE,1
-3,7,QUIET INLET,1
-3,8,NIGHT LIGHT,1
-3,9,THE OLD MILL,1
-3,10,CAMPFIRE,1
-3,11,RUSTIC BARN,1
-3,12,HIDDEN LAKE,1
-3,13,PEACEFUL WATERS,4
-4,1,PURPLE SPLENDOR,1
-4,2,TRANQUIL VALLEY,1
-4,3,MAJESTIC MOUNTAINS,1
-4,4,WINTER SAWSCAPE,3
-4,5,EVENING SEASCAPE,1
-4,6,WARM SUMMER DAY,1
-4,7,CABIN IN THE WOODS,1
-4,8,WETLANDS,1
-4,9,COOL WATERS,1
-4,10,QUIET WOODS,1
-4,11,NORTHWEST MAJESTY,2
-4,12,AUTUMN DAYS,1
-4,13,MOUNTAIN CHALLENGE,1
-5,1,MOUNTAIN WATERFALL,1
-5,2,TWILIGHT MEADOW,1
-5,3,MOUNTAIN BLOSSOMS,3
-5,4,WINTER STILLNESS,1
-5,5,QUIET POND,1
-5,6,OCEAN SUNRISE,3
-5,7,BUBBLING BROOK,1
-5,8,ARIZONA SPLENDOR,1
-5,9,ANATOMY OF A WAVE,3
-5,10,THE WINDMILL,1
-5,11,AUTUMN GLORY,1
-5,12,INDIAN GIRL,3
-5,13,MEADOW STREAM,1
-6,1,BLUE RIVER,1
-6,2,NATURES EDGE,1
-6,3,MORNING MIST,1
-6,4,WHISPERING STREAM,1
-6,5,SECLUDED FOREST,1
-6,6,SNOW TRAIL,1
-6,7,ARCTIC BEAUTY,1
-6,8,HORIZONS WEST,1
-6,9,HIGH CHATEAU,1
-6,10,COUNTRY LIFE,1
-6,11,WESTERN EXPANSE,1
-6,12,MARSHLANDS,1
-6,13,BLAZE OF COLOR,1
-7,1,WINTER CABIN,1
-7,2,SECLUDED LAKE,1
-7,3,EVERGREENS AT SUNSET,1
-7,4,MOUNTAIN CABIN,1
-7,5,PORTRAIT OF SALLY,3
-7,6,MISTY WATERFALL,1
-7,7,BARN AT SUNSET,1
-7,8,MOUNTAIN SPLENDOR,1
-7,9,LAKE BY MOUNTAIN,4
-7,10,MOUNTAIN GLORY,1
-7,11,GREY WINTER,1
-7,12,DOCK SCENE,1
-7,13,DARK WATERFALL,1
-8,1,MISTY ROLLING HILLS,1
-8,2,LAKESIDE CABIN,1
-8,3,WARM WINTER DAY,1
-8,4,WATERSIDE WAY,1
-8,5,HUNTERS HAVEN,1
-8,6,BUBBLING MOUNTAIN BROOK,1
-8,7,WINTER HIDEAWAY,1
-8,8,FOOT OF THE MOUNTAIN,1
-8,9,MAJESTIC PINE,1
-8,10,CACTUS AT SUNSET,1
-8,11,MOUNTAIN RANGE,4
-8,12,LONELY RETREAT,1
-8,13,NORTHERN LIGHTS,1
-9,1,WINTER EVERGREENS,1
-9,2,SURFS UP,1
-9,3,RED SUNSET,1
-9,4,MEADOW ROAD,1
-9,5,WINTER OVAL,1
-9,6,SECLUDED BEACH,1
-9,7,FOREST HILLS,1
-9,8,LITTLE HOUSE BY-THE-ROAD,1
-9,9,MOUNTAIN PATH,1
-9,10,COUNTRY CHARM,1
-9,11,NATURES PARADISE,1
-9,12,MOUNTAIN-BY-THE-SEA,1
-9,13,MOUNTAIN HIDE-AWAY,1
-10,1,TOWERING PEAKS,1
-10,2,CABIN AT SUNSET,1
-10,3,TWIN FALLS,1
-10,4,SECLUDED BRIDGE,1
-10,5,OCEAN BREEZE,1
-10,6,AUTUMN WOODS,1
-10,7,WINTER SOLITUDE,1
-10,8,GOLDEN SUNSET,1
-10,9,MOUNTAIN OVAL,4
-10,10,OCEAN SUNSET,1
-10,11,TRIPLE VIEW,1
-10,12,WINTER FROST,1
-10,13,LAKESIDE CABIN,1
-11,1,MOUNTAIN STREAM,1
-11,2,COUNTRY CABIN,1
-11,3,DAISY DELIGHT,1
-11,4,HIDDEN STREAM,1
-11,5,TOWERING GLACIER,1
-11,6,OVAL BARN,1
-11,7,LAKESIDE PATH,1
-11,8,SUNSET OVAL,1
-11,9,WINTER BARN,1
-11,10,SUNSET OVER THE WAVES,1
-11,11,GOLDEN GLOW,1
-11,12,ROADSIDE BARN,1
-11,13,HAPPY ACCIDENT,1
-12,1,GOLDEN KNOLL,1
-12,2,MOUNTAIN REFLECTIONS,1
-12,3,SECLUDED MOUNTAIN,1
-12,4,BRIGHT AUTUMN TREES,1
-12,5,BLACK SEASCAPE,1
-12,6,STEEP MOUNTAINS,1
-12,7,QUIET MOUNTAIN RIVER,1
-12,8,EVENING WATERFALL,1
-12,9,TROPICAL SEASCAPE,1
-12,10,MOUNTAIN AT SUNSET,1
-12,11,SOFT MOUNTAIN GLOW,1
-12,12,MOUNTAIN IN AN OVAL,1
-12,13,WINTER MOUNTAIN,1
-13,1,ROLLING HILLS,1
-13,2,FROZEN SOLITUDE,1
-13,3,MEADOW BROOK,1
-13,4,EVENING AT SUNSET,1
-13,5,MOUNTAIN VIEW,1
-13,6,HIDDEN CREEK,1
-13,7,PEACEFUL HAVEN,1
-13,8,MOUNTAIN EXHIBITION,1
-13,9,EMERALD WATERS,1
-13,10,MOUNTAIN SUMMIT,1
-13,11,CABIN HIDEAWAY,1
-13,12,OVAL ESSENCE,1
-13,13,LOST LAKE,1
-14,1,DISTANT MOUNTAINS,1
-14,2,MEADOW BROOK SURPRISE,1
-14,3,MOUNTAIN MOONLIGHT OVAL,1
-14,4,SNOWY SOLITUDE,1
-14,5,MOUNTAIN RIVER,1
-14,6,GRACEFUL MOUNTAINS,1
-14,7,WINDY WAVES,1
-14,8,ON A CLEAR DAY,1
-14,9,RIVERSIDE ESCAPE OVAL,1
-14,10,SURPRISING FALLS,4
-14,11,SHADOW POND,1
-14,12,MISTY FOREST OVAL,1
-14,13,NATURAL WONDER,1
-15,1,SPLENDOR OF WINTER,1
-15,2,COLORS OF NATURE,1
-15,3,GRANDPAS BARN,1
-15,4,PEACEFUL REFLECTIONS,1
-15,5,HIDDEN WINTER MOON OVAL,1
-15,6,WAVES OF WONDER,1
-15,7,CABIN BY THE POND,1
-15,8,FALL STREAM,1
-15,9,CHRISTMAS EVE SNOW,1
-15,10,FOREST DAWN OVAL,1
-15,11,PATHWAY TO AUTUMN,1
-15,12,DEEP FOREST LAKE,1
-15,13,PEAKS OF MAJESTY,1
-16,1,TWO SEASONS,1
-16,2,NESTLED CABIN,1
-16,3,WINTERTIME DISCOVERY,1
-16,4,MOUNTAIN MIRAGE,1
-16,5,DOUBLE OVAL FANTASY,1
-16,6,CONTEMPLATIVE LADY,3
-16,7,DEEP WOODS,1
-16,8,HIGH TIDE,1
-16,9,BARN IN SNOW OVAL,1
-16,10,THAT TIME OF YEAR,4
-16,11,WATERFALL WONDER,1
-16,12,MIGHTY MOUNTAIN LAKE,1
-16,13,WOODED STREAM OVAL,1
-17,1,GOLDEN MIST OVAL,1
-17,2,THE OLD HOME PLACE,1
-17,3,SOOTHING VISTA,1
-17,4,STORMY SEAS,1
-17,5,COUNTRY TIME,1
-17,6,A MILD WINTERS DAY,1
-17,7,SPECTACULAR WATERFALL,1
-17,8,VIEW FROM THE PARK,1
-17,9,LAKE VIEW,4
-17,10,OLD COUNTRY MILL,1
-17,11,MORNING WALK,1
-17,12,NATURES SPLENDOR,1
-17,13,MOUNTAIN BEAUTY,3
-18,1,HALF-OVAL VIGNETTE,1
-18,2,ABSOLUTELY AUTUMN,1
-18,3,MOUNTAIN SECLUSION,1
-18,4,CRIMSON OVAL,1
-18,5,AUTUMN EXHIBITION,1
-18,6,MAJESTIC PEAKS,1
-18,7,GOLDEN MORNING MIST,1
-18,8,WINTER LACE,1
-18,9,SEASCAPE FANTASY,1
-18,10,DOUBLE OVAL STREAM,1
-18,11,ENCHANTED FOREST,1
-18,12,SOUTHWEST SERENITY,1
-18,13,RIPPLING WATERS,1
-19,1,SNOWFALL MAGIC,1
-19,2,QUIET MOUNTAIN LAKE,1
-19,3,FINAL EMBERS OF SUNLIGHT,1
-19,4,SNOWY MORN,1
-19,5,CAMPERS HAVEN,1
-19,6,WATERFALL IN THE WOODS,1
-19,7,COVERED BRIDGE OVAL,1
-19,8,SCENIC SECLUSION,1
-19,9,EBB TIDE,1
-19,10,AFTER THE RAIN,1
-19,11,WINTERS ELEGANCE,1
-19,12,EVENINGS PEACE,1
-19,13,VALLEY OF TRANQUILITY,1
-20,1,MYSTIC MOUNTAIN,1
-20,2,NEW DAYS DAWN,1
-20,3,PASTEL WINTER,1
-20,4,HAZY DAY,1
-20,5,DIVINE ELEGANCE,1
-20,6,CLIFFSIDE,1
-20,7,AUTUMN FANTASY,1
-20,8,THE OLD OAK TREE,1
-20,9,WINTERS PARADISE,1
-20,10,DAYS GONE BY,1
-20,11,CHANGE OF SEASONS,1
-20,12,HIDDEN DELIGHT,1
-20,13,DOUBLE TAKE,1
-21,1,VALLEY VIEW,1
-21,2,TRANQUIL DAWN,1
-21,3,ROYAL MAJESTY,1
-21,4,SERENITY,1
-21,5,CABIN AT TRAILS END,1
-21,6,MOUNTAIN RHAPSODY,1
-21,7,WILDERNESS CABIN,1
-21,8,BY THE SEA,1
-21,9,INDIAN SUMMER,1
-21,10,BLUE WINTER,1
-21,11,DESERT GLOW,1
-21,12,LONE MOUNTAIN,1
-21,13,FLORIDAS GLORY,1
-22,1,AUTUMN IMAGES,1
-22,2,HINT OF SPRINGTIME,1
-22,3,AROUND THE BEND,1
-22,4,COUNTRYSIDE OVAL,1
-22,5,RUSSET WINTER,1
-22,6,PURPLE HAZE,1
-22,7,DIMENSIONS,1
-22,8,DEEP WILDERNESS HOME,1
-22,9,HAVEN IN THE VALLEY,1
-22,10,WINTERTIME BLUES,1
-22,11,PASTEL SEASCAPE,1
-22,12,COUNTRY CREEK,1
-22,13,SILENT FOREST,1
-23,1,FROSTY WINTER MORN,1
-23,2,FOREST EDGE,1
-23,3,MOUNTAIN RIDGE LAKE,1
-23,4,REFLECTIONS OF GOLD,1
-23,5,QUIET COVE,1
-23,6,RIVERS PEACE,1
-23,7,AT DAWNS LIGHT,1
-23,8,VALLEY WATERFALL,1
-23,9,TOWARD DAYS END,1
-23,10,FALLS IN THE GLEN,1
-23,11,FROZEN BEAUTY IN VIGNETTE,1
-23,12,CRIMSON TIDE,1
-23,13,WINTER BLISS,1
-24,1,GRAY MOUNTAIN,1
-24,2,WAYSIDE POND,1
-24,3,TETON WINTER,1
-24,4,LITTLE HOME IN THE MEADOW,1
-24,5,A PRETTY AUTUMN DAY,1
-24,6,MIRRORED IMAGES,1
-24,7,BACK COUNTRY,1
-24,8,GRACEFUL WATERFALL,1
-24,9,ICY LAKE,4
-24,10,ROWBOAT ON THE BEACH,1
-24,11,PORTRAIT OF WINTER,1
-24,12,THE FOOTBRIDGE,1
-24,13,SNOWBOUND CABIN,1
-25,1,HIDE-A-WAY COVE,1
-25,2,ENCHANTED FALLS OVAL,1
-25,3,NOT QUITE SPRING,1
-25,4,SPLASHES OF AUTUMN,1
-25,5,SUMMER IN THE MOUNTAIN,4
-25,6,ORIENTAL FALLS,1
-25,7,AUTUMN PALETTE,1
-25,8,CYPRESS SWAMP,1
-25,9,DOWNSTREAM VIEW,1
-25,10,JUST BEFORE THE STORM,1
-25,11,FISHERMANS PARADISE,1
-25,12,DESERT HUES,1
-25,13,THE PROPERTY LINE,1
-26,1,IN THE STILLNESS OF MORNING,1
-26,2,DELIGHTFUL MEADOW HOME,1
-26,3,FIRST SNOW,1
-26,4,LAKE IN THE VALLEY,1
-26,5,TRACE OF SPRING,1
-26,6,ARCTIC WINTER DAY,1
-26,7,SNOW BIRCH,1
-26,8,EARLY AUTUMN,1
-26,9,TRANQUIL WOODED STREAM,1
-26,10,PURPLE MOUNTAIN RANGE,1
-26,11,STORMS A COMIN,1
-26,12,SUNSET AGLOW,1
-26,13,EVENING AT THE FALLS,1
-27,1,TWILIGHT BEAUTY,1
-27,2,ANGLERS HAVEN,1
-27,3,RUSTIC WINTER WOODS,1
-27,4,WILDERNESS FALLS,1
-27,5,WINTER AT THE FARM,1
-27,6,DAISIES AT DAWN,1
-27,7,SPECTACULAR VIEW,1
-27,8,DAYBREAK,1
-27,9,ISLAND PARADISE,1
-27,10,SUNLIGHT IN THE SHADOWS,3
-27,11,SPLENDOR OF A SNOWY WHITE,1
-27,12,FOREST RIVER,1
-27,13,GOLDEN GLOW OF MORNING,1
-28,1,FISHERMANS TRAIL,1
-28,2,TO A WARM WINTER,1
-28,3,UNDER PASTEL SKIES,1
-28,4,GOLDEN RAYS OF SUNLIGHT,1
-28,5,MAGIC OF FALL,1
-28,6,GLACIER LAKE,1
-28,7,THE OLD WEATHERED BARN,1
-28,8,DEEP FOREST FALLS,1
-28,9,WINTERS GRACE,1
-28,10,SPLENDOR OF AUTUMN,1
-28,11,TRANQUIL SEAS,1
-28,12,MOUNTAIN SERENITY,1
-28,13,HOME BEFORE NIGHTFALL,1
-29,1,ISLAND IN THE WILDERNESS,1
-29,2,AUTUMN OVAL,1
-29,3,SEASONAL PROGRESSION,1
-29,4,LIGHT AT THE SUMMIT,1
-29,5,COUNTRYSIDE BARN,1
-29,6,MOUNTAIN LAKE FALLS,1
-29,7,CYPRESS CREEK,1
-29,8,TRAPPERS CABIN,1
-29,9,STORM ON THE HORIZON,1
-29,10,POT O POSIES,3
-29,11,PERFECT WINTERS DAY,1
-29,12,AURORAS DANCE,1
-29,13,THE WOODMANS RETREAT,1
-30,1,BABBLING BROOK,1
-30,2,WOODGRAIN VIEW,1
-30,3,WINTERS PEACE,1
-30,4,WILDERNESS TRAIL,1
-30,5,COPPER WINTER,1
-30,6,MISTY FOOTHILLS,1
-30,7,THROUGH THE WINDOW,1
-30,8,HOME IN THE VALLEY,1
-30,9,MOUNTAINS OF GRACE,4
-30,10,SEASIDE HARMONY,1
-30,11,COLD SPRING DAY,1
-30,12,EVENINGS GLOW,1
-30,13,BLUE RIDGE FALLS,1
-31,1,REFLECTIONS OF CALM,1
-31,2,BEFORE THE SNOWFALL,1
-31,3,WINDING STREAM,1
-31,4,TRANQUILITY COVE,1
-31,5,CABIN IN THE HOLLOW,1
-31,6,VIEW FROM CLEAR CREEK,1
-31,7,BRIDGE TO AUTUMN,1
-31,8,TRAILS END,1
-31,9,EVERGREEN VALLEY,1
-31,10,BALMY BEACH,1
-31,11,LAKE AT THE RIDGE,4
-31,12,IN THE MIDST OF WINTER,1
-31,13,WILDERNESS DAY,1
+1,1,A Walk In The Woods,1
+1,2,Mt. Mckinley,1
+1,3,Ebony Sunset,1
+1,4,Winter Mist,1
+1,5,Quiet Stream,1
+1,6,Winter Moon,1
+1,7,Autumn Mountains,1
+1,8,Peaceful Valley,1
+1,9,Seascape,1
+1,10,Mountain Lake,1
+1,11,Winter Glow,1
+1,12,Snowfall,1
+1,13,Final Reflections,1
+2,1,Meadow Lake,1
+2,2,Winter Sun,1
+2,3,Ebony Sea,1
+2,4,Shades Of Grey,1
+2,5,Autumn Splendor,1
+2,6,Black River,1
+2,7,Brown Mountain,1
+2,8,Reflections,1
+2,9,Black & White Seascape,1
+2,10,Lazy River,1
+2,11,Black Waterfall,1
+2,12,Mountain Waterfall,1
+2,13,Final Grace,1
+3,1,Mountain Retreat,1
+3,2,Blue Moon,1
+3,3,Bubbling Stream,1
+3,4,Winter Night,1
+3,5,Distant Hills,1
+3,6,Covered Bridge,1
+3,7,Quiet Inlet,1
+3,8,Night Light,1
+3,9,The Old Mill,1
+3,10,Campfire,1
+3,11,Rustic Barn,1
+3,12,Hidden Lake,1
+3,13,Peaceful Waters,4
+4,1,Purple Splendor,1
+4,2,Tranquil Valley,1
+4,3,Majestic Mountains,1
+4,4,Winter Sawscape,3
+4,5,Evening Seascape,1
+4,6,Warm Summer Day,1
+4,7,Cabin In The Woods,1
+4,8,Wetlands,1
+4,9,Cool Waters,1
+4,10,Quiet Woods,1
+4,11,Northwest Majesty,2
+4,12,Autumn Days,1
+4,13,Mountain Challenge,1
+5,1,Mountain Waterfall,1
+5,2,Twilight Meadow,1
+5,3,Mountain Blossoms,3
+5,4,Winter Stillness,1
+5,5,Quiet Pond,1
+5,6,Ocean Sunrise,3
+5,7,Bubbling Brook,1
+5,8,Arizona Splendor,1
+5,9,Anatomy Of A Wave,3
+5,10,The Windmill,1
+5,11,Autumn Glory,1
+5,12,Indian Girl,3
+5,13,Meadow Stream,1
+6,1,Blue River,1
+6,2,Natures Edge,1
+6,3,Morning Mist,1
+6,4,Whispering Stream,1
+6,5,Secluded Forest,1
+6,6,Snow Trail,1
+6,7,Arctic Beauty,1
+6,8,Horizons West,1
+6,9,High Chateau,1
+6,10,Country Life,1
+6,11,Western Expanse,1
+6,12,Marshlands,1
+6,13,Blaze Of Color,1
+7,1,Winter Cabin,1
+7,2,Secluded Lake,1
+7,3,Evergreens At Sunset,1
+7,4,Mountain Cabin,1
+7,5,Portrait Of Sally,3
+7,6,Misty Waterfall,1
+7,7,Barn At Sunset,1
+7,8,Mountain Splendor,1
+7,9,Lake By Mountain,4
+7,10,Mountain Glory,1
+7,11,Grey Winter,1
+7,12,Dock Scene,1
+7,13,Dark Waterfall,1
+8,1,Misty Rolling Hills,1
+8,2,Lakeside Cabin,1
+8,3,Warm Winter Day,1
+8,4,Waterside Way,1
+8,5,Hunters Haven,1
+8,6,Bubbling Mountain Brook,1
+8,7,Winter Hideaway,1
+8,8,Foot Of The Mountain,1
+8,9,Majestic Pine,1
+8,10,Cactus At Sunset,1
+8,11,Mountain Range,4
+8,12,Lonely Retreat,1
+8,13,Northern Lights,1
+9,1,Winter Evergreens,1
+9,2,Surfs Up,1
+9,3,Red Sunset,1
+9,4,Meadow Road,1
+9,5,Winter Oval,1
+9,6,Secluded Beach,1
+9,7,Forest Hills,1
+9,8,Little House By The Road,1
+9,9,Mountain Path,1
+9,10,Country Charm,1
+9,11,Natures Paradise,1
+9,12,Mountain By The Sea,1
+9,13,Mountain Hideaway,1
+10,1,Towering Peaks,1
+10,2,Cabin At Sunset,1
+10,3,Twin Falls,1
+10,4,Secluded Bridge,1
+10,5,Ocean Breeze,1
+10,6,Autumn Woods,1
+10,7,Winter Solitude,1
+10,8,Golden Sunset,1
+10,9,Mountain Oval,4
+10,10,Ocean Sunset,1
+10,11,Triple View,1
+10,12,Winter Frost,1
+10,13,Lakeside Cabin,1
+11,1,Mountain Stream,1
+11,2,Country Cabin,1
+11,3,Daisy Delight,1
+11,4,Hidden Stream,1
+11,5,Towering Glacier,1
+11,6,Oval Barn,1
+11,7,Lakeside Path,1
+11,8,Sunset Oval,1
+11,9,Winter Barn,1
+11,10,Sunset Over The Waves,1
+11,11,Golden Glow,1
+11,12,Roadside Barn,1
+11,13,Happy Accident,1
+12,1,Golden Knoll,1
+12,2,Mountain Reflections,1
+12,3,Secluded Mountain,1
+12,4,Bright Autumn Trees,1
+12,5,Black Seascape,1
+12,6,Steep Mountains,1
+12,7,Quiet Mountain River,1
+12,8,Evening Waterfall,1
+12,9,Tropical Seascape,1
+12,10,Mountain At Sunset,1
+12,11,Soft Mountain Glow,1
+12,12,Mountain In An Oval,1
+12,13,Winter Mountain,1
+13,1,Rolling Hills,1
+13,2,Frozen Solitude,1
+13,3,Meadow Brook,1
+13,4,Evening At Sunset,1
+13,5,Mountain View,1
+13,6,Hidden Creek,1
+13,7,Peaceful Haven,1
+13,8,Mountain Exhibition,1
+13,9,Emerald Waters,1
+13,10,Mountain Summit,1
+13,11,Cabin Hideaway,1
+13,12,Oval Essence,1
+13,13,Lost Lake,1
+14,1,Distant Mountains,1
+14,2,Meadow Brook Surprise,1
+14,3,Mountain Moonlight Oval,1
+14,4,Snowy Solitude,1
+14,5,Mountain River,1
+14,6,Graceful Mountains,1
+14,7,Windy Waves,1
+14,8,On A Clear Day,1
+14,9,Riverside Escape Oval,1
+14,10,Surprising Falls,4
+14,11,Shadow Pond,1
+14,12,Misty Forest Oval,1
+14,13,Natural Wonder,1
+15,1,Splendor Of Winter,1
+15,2,Colors Of Nature,1
+15,3,Grandpas Barn,1
+15,4,Peaceful Reflections,1
+15,5,Hidden Winter Moon Oval,1
+15,6,Waves Of Wonder,1
+15,7,Cabin By The Pond,1
+15,8,Fall Stream,1
+15,9,Christmas Eve Snow,1
+15,10,Forest Dawn Oval,1
+15,11,Pathway To Autumn,1
+15,12,Deep Forest Lake,1
+15,13,Peaks Of Majesty,1
+16,1,Two Seasons,1
+16,2,Nestled Cabin,1
+16,3,Wintertime Discovery,1
+16,4,Mountain Mirage,1
+16,5,Double Oval Fantasy,1
+16,6,Contemplative Lady,3
+16,7,Deep Woods,1
+16,8,High Tide,1
+16,9,Barn In Snow Oval,1
+16,10,That Time Of Year,4
+16,11,Waterfall Wonder,1
+16,12,Mighty Mountain Lake,1
+16,13,Wooded Stream Oval,1
+17,1,Golden Mist Oval,1
+17,2,The Old Home Place,1
+17,3,Soothing Vista,1
+17,4,Stormy Seas,1
+17,5,Country Time,1
+17,6,A Mild Winters Day,1
+17,7,Spectacular Waterfall,1
+17,8,View From The Park,1
+17,9,Lake View,4
+17,10,Old Country Mill,1
+17,11,Morning Walk,1
+17,12,Natures Splendor,1
+17,13,Mountain Beauty,3
+18,1,Half Oval Vignette,1
+18,2,Absolutely Autumn,1
+18,3,Mountain Seclusion,1
+18,4,Crimson Oval,1
+18,5,Autumn Exhibition,1
+18,6,Majestic Peaks,1
+18,7,Golden Morning Mist,1
+18,8,Winter Lace,1
+18,9,Seascape Fantasy,1
+18,10,Double Oval Stream,1
+18,11,Enchanted Forest,1
+18,12,Southwest Serenity,1
+18,13,Rippling Waters,1
+19,1,Snowfall Magic,1
+19,2,Quiet Mountain Lake,1
+19,3,Final Embers Of Sunlight,1
+19,4,Snowy Morn,1
+19,5,Campers Haven,1
+19,6,Waterfall In The Woods,1
+19,7,Covered Bridge Oval,1
+19,8,Scenic Seclusion,1
+19,9,Ebb Tide,1
+19,10,After The Rain,1
+19,11,Winters Elegance,1
+19,12,Evenings Peace,1
+19,13,Valley Of Tranquility,1
+20,1,Mystic Mountain,1
+20,2,New Days Dawn,1
+20,3,Pastel Winter,1
+20,4,Hazy Day,1
+20,5,Divine Elegance,1
+20,6,Cliffside,1
+20,7,Autumn Fantasy,1
+20,8,The Old Oak Tree,1
+20,9,Winters Paradise,1
+20,10,Days Gone By,1
+20,11,Change Of Seasons,1
+20,12,Hidden Delight,1
+20,13,Double Take,1
+21,1,Valley View,1
+21,2,Tranquil Dawn,1
+21,3,Royal Majesty,1
+21,4,Serenity,1
+21,5,Cabin At Trails End,1
+21,6,Mountain Rhapsody,1
+21,7,Wilderness Cabin,1
+21,8,By The Sea,1
+21,9,Indian Summer,1
+21,10,Blue Winter,1
+21,11,Desert Glow,1
+21,12,Lone Mountain,1
+21,13,Floridas Glory,1
+22,1,Autumn Images,1
+22,2,Hint Of Springtime,1
+22,3,Around The Bend,1
+22,4,Countryside Oval,1
+22,5,Russet Winter,1
+22,6,Purple Haze,1
+22,7,Dimensions,1
+22,8,Deep Wilderness Home,1
+22,9,Haven In The Valley,1
+22,10,Wintertime Blues,1
+22,11,Pastel Seascape,1
+22,12,Country Creek,1
+22,13,Silent Forest,1
+23,1,Frosty Winter Morn,1
+23,2,Forest Edge,1
+23,3,Mountain Ridge Lake,1
+23,4,Reflections Of Gold,1
+23,5,Quiet Cove,1
+23,6,Rivers Peace,1
+23,7,At Dawns Light,1
+23,8,Valley Waterfall,1
+23,9,Toward Days End,1
+23,10,Falls In The Glen,1
+23,11,Frozen Beauty In Vignette,1
+23,12,Crimson Tide,1
+23,13,Winter Bliss,1
+24,1,Gray Mountain,1
+24,2,Wayside Pond,1
+24,3,Teton Winter,1
+24,4,Little Home In The Meadow,1
+24,5,A Pretty Autumn Day,1
+24,6,Mirrored Images,1
+24,7,Back Country,1
+24,8,Graceful Waterfall,1
+24,9,Icy Lake,4
+24,10,Rowboat On The Beach,1
+24,11,Portrait Of Winter,1
+24,12,The Footbridge,1
+24,13,Snowbound Cabin,1
+25,1,Hide A Way Cove,1
+25,2,Enchanted Falls Oval,1
+25,3,Not Quite Spring,1
+25,4,Splashes Of Autumn,1
+25,5,Summer In The Mountain,4
+25,6,Oriental Falls,1
+25,7,Autumn Palette,1
+25,8,Cypress Swamp,1
+25,9,Downstream View,1
+25,10,Just Before The Storm,1
+25,11,Fishermans Paradise,1
+25,12,Desert Hues,1
+25,13,The Property Line,1
+26,1,In The Stillness Of Morning,1
+26,2,Delightful Meadow Home,1
+26,3,First Snow,1
+26,4,Lake In The Valley,1
+26,5,Trace Of Spring,1
+26,6,Arctic Winter Day,1
+26,7,Snow Birch,1
+26,8,Early Autumn,1
+26,9,Tranquil Wooded Stream,1
+26,10,Purple Mountain Range,1
+26,11,Storms A Comin,1
+26,12,Sunset Aglow,1
+26,13,Evening At The Falls,1
+27,1,Twilight Beauty,1
+27,2,Anglers Haven,1
+27,3,Rustic Winter Woods,1
+27,4,Wilderness Falls,1
+27,5,Winter At The Farm,1
+27,6,Daisies At Dawn,1
+27,7,Spectacular View,1
+27,8,Daybreak,1
+27,9,Island Paradise,1
+27,10,Sunlight In The Shadows,3
+27,11,Splendor Of A Snowy White,1
+27,12,Forest River,1
+27,13,Golden Glow Of Morning,1
+28,1,Fishermans Trail,1
+28,2,To A Warm Winter,1
+28,3,Under Pastel Skies,1
+28,4,Golden Rays Of Sunlight,1
+28,5,Magic Of Fall,1
+28,6,Glacier Lake,1
+28,7,The Old Weathered Barn,1
+28,8,Deep Forest Falls,1
+28,9,Winters Grace,1
+28,10,Splendor Of Autumn,1
+28,11,Tranquil Seas,1
+28,12,Mountain Serenity,1
+28,13,Home Before Nightfall,1
+29,1,Island In The Wilderness,1
+29,2,Autumn Oval,1
+29,3,Seasonal Progression,1
+29,4,Light At The Summit,1
+29,5,Countryside Barn,1
+29,6,Mountain Lake Falls,1
+29,7,Cypress Creek,1
+29,8,Trappers Cabin,1
+29,9,Storm On The Horizon,1
+29,10,Pot O Posies,3
+29,11,Perfect Winters Day,1
+29,12,Auroras Dance,1
+29,13,The Woodmans Retreat,1
+30,1,Babbling Brook,1
+30,2,Woodgrain View,1
+30,3,Winters Peace,1
+30,4,Wilderness Trail,1
+30,5,Copper Winter,1
+30,6,Misty Foothills,1
+30,7,Through The Window,1
+30,8,Home In The Valley,1
+30,9,Mountains Of Grace,4
+30,10,Seaside Harmony,1
+30,11,Cold Spring Day,1
+30,12,Evenings Glow,1
+30,13,Blue Ridge Falls,1
+31,1,Reflections Of Calm,1
+31,2,Before The Snowfall,1
+31,3,Winding Stream,1
+31,4,Tranquility Cove,1
+31,5,Cabin In The Hollow,1
+31,6,View From Clear Creek,1
+31,7,Bridge To Autumn,1
+31,8,Trails End,1
+31,9,Evergreen Valley,1
+31,10,Balmy Beach,1
+31,11,Lake At The Ridge,4
+31,12,In The Midst Of Winter,1
+31,13,Wilderness Day,1

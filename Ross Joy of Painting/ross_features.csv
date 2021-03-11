@@ -1,64 +1,64 @@
 feature,feature_id
-APPLE_FRAME,1
-AURORA_BOREALIS,2
-BARN,3
-BEACH,4
-BOAT,5
-BRIDGE,6
-BUILDING,7
-BUSHES,8
-CABIN,9
-CACTUS,10
-CIRCLE_FRAME,11
-CIRRUS,12
-CLIFF,13
-CLOUDS,14
-CONIFER,15
-CUMULUS,16
-DECIDUOUS,17
-DOCK,18
-DOUBLE_OVAL_FRAME,19
-FARM,20
-FENCE,21
-FIRE,22
-FLORIDA_FRAME,23
-FLOWERS,24
-FOG,25
-FRAMED,26
-GRASS,27
-HALF_CIRCLE_FRAME,28
-HALF_OVAL_FRAME,29
-HILLS,30
-LAKE,31
-LIGHTHOUSE,32
-MILL,33
-MOON,34
-MOUNTAIN,35
-MOUNTAINS,36
-NIGHT,37
-OCEAN,38
-OVAL_FRAME,39
-PALM_TREES,40
-PATH,41
-PERSON,42
-PORTRAIT,43
-RECTANGLE_3D_FRAME,44
-RECTANGULAR_FRAME,45
-RIVER,46
-ROCKS,47
-SEASHELL_FRAME,48
-SNOW,49
-SNOWY_MOUNTAIN,50
-SPLIT_FRAME,51
-STRUCTURE,52
-SUN,53
-TOMB_FRAME,54
-TREE,55
-TREES,56
-TRIPLE_FRAME,57
-WATERFALL,58
-WAVES,59
-WINDMILL,60
-WINDOW_FRAME,61
-WINTER,62
-WOOD_FRAMED,63
+Apple Frame,1
+Aurora Borealis,2
+Barn,3
+Beach,4
+Boat,5
+Bridge,6
+Building,7
+Bushes,8
+Cabin,9
+Cactus,10
+Circle Frame,11
+Cirrus,12
+Cliff,13
+Clouds,14
+Conifer,15
+Cumulus,16
+Deciduous,17
+Dock,18
+Double Oval Frame,19
+Farm,20
+Fence,21
+Fire,22
+Florida Frame,23
+Flowers,24
+Fog,25
+Framed,26
+Grass,27
+Half Circle Frame,28
+Half Oval Frame,29
+Hills,30
+Lake,31
+Lighthouse,32
+Mill,33
+Moon,34
+Mountain,35
+Mountains,36
+Night,37
+Ocean,38
+Oval Frame,39
+Palm Trees,40
+Path,41
+Person,42
+Portrait,43
+Rectangle 3D Frame,44
+Rectangular Frame,45
+River,46
+Rocks,47
+Seashell Frame,48
+Snow,49
+Snowy Mountain,50
+Split Frame,51
+Structure,52
+Sun,53
+Tomb Frame,54
+Tree,55
+Trees,56
+Triple Frame,57
+Waterfall,58
+Waves,59
+Windmill,60
+Window Frame,61
+Winter,62
+Wood Framed,63
