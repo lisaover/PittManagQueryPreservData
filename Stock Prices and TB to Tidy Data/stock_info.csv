@@ -1,0 +1,7 @@
+symbol,company,sector,exchange
+AAPL,Apple Inc.,Information Technology,NASDAQ
+AMZN,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+GME,GameStop Corp.,Consumer Discretionary,NYSE
+KO,Coca-Cola Company,Consumer Staples,NYSE
+TSLA,Tesla Inc,Consumer Discretionary,NASDAQ
+VZ,Verizon Communications Inc.,Communication Services,NYSE

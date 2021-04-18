@@ -1,0 +1,2401 @@
+,date,value,symbol,price_type,company,sector,exchange
+0,2020-09-01,132.759995,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+1,2020-09-02,137.589996,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+2,2020-09-03,126.910004,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+3,2020-09-04,120.07,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+4,2020-09-08,113.949997,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+5,2020-09-09,117.260002,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+6,2020-09-10,120.360001,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+7,2020-09-11,114.57,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+8,2020-09-14,114.720001,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+9,2020-09-15,118.330002,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+10,2020-09-16,115.230003,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+11,2020-09-17,109.720001,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+12,2020-09-18,110.400002,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+13,2020-09-21,104.540001,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+14,2020-09-22,112.68,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+15,2020-09-23,111.620003,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+16,2020-09-24,105.169998,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+17,2020-09-25,108.43,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+18,2020-09-28,115.010002,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+19,2020-09-29,114.550003,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+20,2020-09-30,113.790001,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+21,2020-10-01,117.639999,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+22,2020-10-02,112.889999,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+23,2020-10-05,113.910004,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+24,2020-10-06,115.699997,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+25,2020-10-07,114.620003,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+26,2020-10-08,116.25,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+27,2020-10-09,115.279999,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+28,2020-10-12,120.059998,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+29,2020-10-13,125.269997,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+30,2020-10-14,121.0,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+31,2020-10-15,118.720001,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+32,2020-10-16,121.279999,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+33,2020-10-19,119.959999,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+34,2020-10-20,116.199997,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+35,2020-10-21,116.669998,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+36,2020-10-22,117.449997,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+37,2020-10-23,116.389999,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+38,2020-10-26,114.010002,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+39,2020-10-27,115.489998,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+40,2020-10-28,115.050003,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+41,2020-10-29,112.370003,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+42,2020-10-30,111.059998,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+43,2020-11-02,109.110001,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+44,2020-11-03,109.660004,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+45,2020-11-04,114.139999,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+46,2020-11-05,117.949997,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+47,2020-11-06,118.32,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+48,2020-11-09,120.5,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+49,2020-11-10,115.550003,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+50,2020-11-11,117.190002,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+51,2020-11-12,119.620003,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+52,2020-11-13,119.440002,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+53,2020-11-16,118.919998,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+54,2020-11-17,119.550003,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+55,2020-11-18,118.610001,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+56,2020-11-19,117.589996,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+57,2020-11-20,118.639999,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+58,2020-11-23,117.18,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+59,2020-11-24,113.910004,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+60,2020-11-25,115.550003,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+61,2020-11-27,116.57,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+62,2020-11-30,116.970001,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+63,2020-12-01,121.010002,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+64,2020-12-02,122.019997,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+65,2020-12-03,123.519997,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+66,2020-12-04,122.599998,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+67,2020-12-07,122.309998,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+68,2020-12-08,124.370003,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+69,2020-12-09,124.529999,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+70,2020-12-10,120.5,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+71,2020-12-11,122.43,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+72,2020-12-14,122.599998,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+73,2020-12-15,124.339996,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+74,2020-12-16,127.410004,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+75,2020-12-17,128.899994,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+76,2020-12-18,128.960007,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+77,2020-12-21,125.019997,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+78,2020-12-22,131.610001,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+79,2020-12-23,132.160004,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+80,2020-12-24,131.320007,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+81,2020-12-28,133.990005,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+82,2020-12-29,138.050003,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+83,2020-12-30,135.580002,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+84,2020-12-31,134.080002,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+85,2021-01-04,133.520004,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+86,2021-01-05,128.889999,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+87,2021-01-06,127.720001,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+88,2021-01-07,128.360001,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+89,2021-01-08,132.429993,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+90,2021-01-11,129.190002,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+91,2021-01-12,128.5,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+92,2021-01-13,128.759995,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+93,2021-01-14,130.800003,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+94,2021-01-15,128.779999,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+95,2021-01-19,127.779999,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+96,2021-01-20,128.660004,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+97,2021-01-21,133.800003,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+98,2021-01-22,136.279999,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+99,2021-01-25,143.070007,AAPL,open,Apple Inc.,Information Technology,NASDAQ
+100,2020-09-01,3489.580078,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+101,2020-09-02,3547.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+102,2020-09-03,3485.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+103,2020-09-04,3318.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+104,2020-09-08,3144.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+105,2020-09-09,3202.98999,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+106,2020-09-10,3307.219971,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+107,2020-09-11,3208.689941,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+108,2020-09-14,3172.939941,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+109,2020-09-15,3136.159912,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+110,2020-09-16,3179.98999,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+111,2020-09-17,3009.25,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+112,2020-09-18,3031.73999,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+113,2020-09-21,2906.5,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+114,2020-09-22,3033.840088,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+115,2020-09-23,3120.429932,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+116,2020-09-24,2977.790039,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+117,2020-09-25,3054.860107,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+118,2020-09-28,3148.850098,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+119,2020-09-29,3175.389893,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+120,2020-09-30,3141.139893,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+121,2020-10-01,3208.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+122,2020-10-02,3153.629883,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+123,2020-10-05,3145.840088,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+124,2020-10-06,3165.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+125,2020-10-07,3135.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+126,2020-10-08,3224.98999,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+127,2020-10-09,3210.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+128,2020-10-12,3349.939941,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+129,2020-10-13,3467.98999,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+130,2020-10-14,3447.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+131,2020-10-15,3292.01001,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+132,2020-10-16,3363.22998,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+133,2020-10-19,3299.610107,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+134,2020-10-20,3222.280029,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+135,2020-10-21,3212.5,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+136,2020-10-22,3189.870117,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+137,2020-10-23,3191.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+138,2020-10-26,3198.73999,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+139,2020-10-27,3224.939941,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+140,2020-10-28,3249.300049,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+141,2020-10-29,3201.27002,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+142,2020-10-30,3157.75,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+143,2020-11-02,3061.73999,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+144,2020-11-03,3018.530029,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+145,2020-11-04,3159.98999,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+146,2020-11-05,3319.969971,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+147,2020-11-06,3304.639893,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+148,2020-11-09,3231.030029,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+149,2020-11-10,3095.02002,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+150,2020-11-11,3061.780029,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+151,2020-11-12,3159.949951,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+152,2020-11-13,3122.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+153,2020-11-16,3093.199951,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+154,2020-11-17,3183.540039,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+155,2020-11-18,3134.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+156,2020-11-19,3105.310059,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+157,2020-11-20,3117.02002,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+158,2020-11-23,3116.699951,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+159,2020-11-24,3100.5,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+160,2020-11-25,3141.870117,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+161,2020-11-27,3211.26001,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+162,2020-11-30,3208.47998,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+163,2020-12-01,3188.5,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+164,2020-12-02,3221.649902,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+165,2020-12-03,3205.459961,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+166,2020-12-04,3198.209961,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+167,2020-12-07,3156.47998,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+168,2020-12-08,3158.899902,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+169,2020-12-09,3167.889893,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+170,2020-12-10,3088.98999,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+171,2020-12-11,3096.659912,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+172,2020-12-14,3143.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+173,2020-12-15,3181.01001,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+174,2020-12-16,3176.01001,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+175,2020-12-17,3250.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+176,2020-12-18,3243.98999,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+177,2020-12-21,3200.01001,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+178,2020-12-22,3202.840088,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+179,2020-12-23,3205.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+180,2020-12-24,3193.899902,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+181,2020-12-28,3194.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+182,2020-12-29,3309.939941,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+183,2020-12-30,3341.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+184,2020-12-31,3275.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+185,2021-01-04,3270.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+186,2021-01-05,3166.01001,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+187,2021-01-06,3146.47998,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+188,2021-01-07,3157.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+189,2021-01-08,3180.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+190,2021-01-11,3148.01001,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+191,2021-01-12,3120.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+192,2021-01-13,3128.439941,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+193,2021-01-14,3167.52002,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+194,2021-01-15,3123.02002,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+195,2021-01-19,3107.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+196,2021-01-20,3181.98999,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+197,2021-01-21,3293.0,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+198,2021-01-22,3304.310059,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+199,2021-01-25,3328.5,AMZN,open,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+200,2020-09-01,7.3,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+201,2020-09-02,7.8,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+202,2020-09-03,7.88,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+203,2020-09-04,7.78,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+204,2020-09-08,7.55,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+205,2020-09-09,7.96,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+206,2020-09-10,6.65,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+207,2020-09-11,6.26,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+208,2020-09-14,6.8,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+209,2020-09-15,6.86,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+210,2020-09-16,7.03,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+211,2020-09-17,8.57,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+212,2020-09-18,9.2,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+213,2020-09-21,9.35,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+214,2020-09-22,10.45,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+215,2020-09-23,10.6,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+216,2020-09-24,9.71,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+217,2020-09-25,9.19,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+218,2020-09-28,10.16,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+219,2020-09-29,10.0,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+220,2020-09-30,10.25,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+221,2020-10-01,10.09,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+222,2020-10-02,9.38,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+223,2020-10-05,9.44,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+224,2020-10-06,9.56,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+225,2020-10-07,9.23,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+226,2020-10-08,9.54,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+227,2020-10-09,12.83,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+228,2020-10-12,11.66,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+229,2020-10-13,11.73,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+230,2020-10-14,12.67,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+231,2020-10-15,11.99,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+232,2020-10-16,13.77,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+233,2020-10-19,13.44,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+234,2020-10-20,14.03,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+235,2020-10-21,13.9,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+236,2020-10-22,14.2,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+237,2020-10-23,15.05,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+238,2020-10-26,14.93,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+239,2020-10-27,13.71,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+240,2020-10-28,12.27,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+241,2020-10-29,11.88,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+242,2020-10-30,11.64,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+243,2020-11-02,10.82,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+244,2020-11-03,10.75,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+245,2020-11-04,11.76,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+246,2020-11-05,11.27,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+247,2020-11-06,11.52,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+248,2020-11-09,12.76,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+249,2020-11-10,11.5,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+250,2020-11-11,11.5,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+251,2020-11-12,11.74,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+252,2020-11-13,11.36,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+253,2020-11-16,11.16,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+254,2020-11-17,11.65,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+255,2020-11-18,11.8,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+256,2020-11-19,11.6,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+257,2020-11-20,12.55,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+258,2020-11-23,12.9,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+259,2020-11-24,14.23,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+260,2020-11-25,13.6,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+261,2020-11-27,15.29,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+262,2020-11-30,18.17,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+263,2020-12-01,17.110001,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+264,2020-12-02,15.7,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+265,2020-12-03,16.48,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+266,2020-12-04,16.299999,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+267,2020-12-07,17.0,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+268,2020-12-08,16.370001,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+269,2020-12-09,13.92,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+270,2020-12-10,13.12,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+271,2020-12-11,13.91,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+272,2020-12-14,13.34,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+273,2020-12-15,12.78,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+274,2020-12-16,13.96,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+275,2020-12-17,13.96,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+276,2020-12-18,15.78,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+277,2020-12-21,15.81,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+278,2020-12-22,16.219999,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+279,2020-12-23,20.17,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+280,2020-12-24,21.01,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+281,2020-12-28,21.309999,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+282,2020-12-29,20.82,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+283,2020-12-30,19.379999,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+284,2020-12-31,19.25,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+285,2021-01-04,19.0,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+286,2021-01-05,17.35,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+287,2021-01-06,17.34,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+288,2021-01-07,18.469999,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+289,2021-01-08,18.18,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+290,2021-01-11,19.41,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+291,2021-01-12,19.959999,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+292,2021-01-13,20.42,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+293,2021-01-14,38.09,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+294,2021-01-15,38.490002,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+295,2021-01-19,41.549999,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+296,2021-01-20,37.369999,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+297,2021-01-21,39.23,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+298,2021-01-22,42.59,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+299,2021-01-25,96.730003,GME,open,GameStop Corp.,Consumer Discretionary,NYSE
+300,2020-09-01,49.310001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+301,2020-09-02,49.360001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+302,2020-09-03,51.400002,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+303,2020-09-04,50.939999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+304,2020-09-08,50.93,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+305,2020-09-09,49.599998,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+306,2020-09-10,50.349998,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+307,2020-09-11,50.400002,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+308,2020-09-14,50.970001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+309,2020-09-15,51.0,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+310,2020-09-16,50.950001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+311,2020-09-17,50.220001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+312,2020-09-18,50.75,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+313,2020-09-21,49.75,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+314,2020-09-22,49.110001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+315,2020-09-23,49.73,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+316,2020-09-24,48.209999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+317,2020-09-25,48.200001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+318,2020-09-28,49.310001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+319,2020-09-29,49.389999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+320,2020-09-30,49.27,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+321,2020-10-01,49.439999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+322,2020-10-02,48.759998,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+323,2020-10-05,49.43,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+324,2020-10-06,49.549999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+325,2020-10-07,49.02,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+326,2020-10-08,49.709999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+327,2020-10-09,50.669998,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+328,2020-10-12,50.84,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+329,2020-10-13,50.990002,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+330,2020-10-14,50.049999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+331,2020-10-15,49.400002,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+332,2020-10-16,49.990002,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+333,2020-10-19,50.029999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+334,2020-10-20,49.889999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+335,2020-10-21,49.959999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+336,2020-10-22,51.169998,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+337,2020-10-23,51.0,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+338,2020-10-26,50.34,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+339,2020-10-27,49.810001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+340,2020-10-28,49.0,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+341,2020-10-29,47.73,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+342,2020-10-30,47.810001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+343,2020-11-02,48.75,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+344,2020-11-03,49.220001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+345,2020-11-04,49.43,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+346,2020-11-05,49.759998,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+347,2020-11-06,49.650002,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+348,2020-11-09,52.5,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+349,2020-11-10,52.57,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+350,2020-11-11,53.93,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+351,2020-11-12,53.049999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+352,2020-11-13,53.25,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+353,2020-11-16,54.5,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+354,2020-11-17,53.66,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+355,2020-11-18,53.75,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+356,2020-11-19,52.490002,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+357,2020-11-20,53.189999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+358,2020-11-23,52.950001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+359,2020-11-24,53.139999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+360,2020-11-25,53.07,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+361,2020-11-27,53.110001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+362,2020-11-30,52.09,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+363,2020-12-01,52.139999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+364,2020-12-02,51.900002,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+365,2020-12-03,51.900002,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+366,2020-12-04,52.779999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+367,2020-12-07,53.759998,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+368,2020-12-08,52.939999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+369,2020-12-09,53.369999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+370,2020-12-10,53.400002,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+371,2020-12-11,52.799999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+372,2020-12-14,53.650002,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+373,2020-12-15,53.790001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+374,2020-12-16,53.599998,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+375,2020-12-17,53.299999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+376,2020-12-18,53.080002,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+377,2020-12-21,52.68,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+378,2020-12-22,52.810001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+379,2020-12-23,52.950001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+380,2020-12-24,53.02,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+381,2020-12-28,53.849998,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+382,2020-12-29,54.450001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+383,2020-12-30,54.049999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+384,2020-12-31,54.450001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+385,2021-01-04,54.27,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+386,2021-01-05,52.330002,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+387,2021-01-06,51.970001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+388,2021-01-07,50.09,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+389,2021-01-08,50.029999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+390,2021-01-11,50.619999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+391,2021-01-12,50.040001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+392,2021-01-13,49.98,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+393,2021-01-14,50.16,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+394,2021-01-15,49.16,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+395,2021-01-19,48.740002,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+396,2021-01-20,48.540001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+397,2021-01-21,48.779999,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+398,2021-01-22,48.810001,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+399,2021-01-25,48.419998,KO,open,Coca-Cola Company,Consumer Staples,NYSE
+400,2020-09-01,502.140015,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+401,2020-09-02,478.98999,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+402,2020-09-03,407.230011,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+403,2020-09-04,402.809998,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+404,2020-09-08,356.0,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+405,2020-09-09,356.600006,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+406,2020-09-10,386.209991,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+407,2020-09-11,381.940002,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+408,2020-09-14,380.950012,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+409,2020-09-15,436.559998,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+410,2020-09-16,439.869995,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+411,2020-09-17,415.600006,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+412,2020-09-18,447.940002,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+413,2020-09-21,453.130005,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+414,2020-09-22,429.600006,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+415,2020-09-23,405.160004,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+416,2020-09-24,363.799988,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+417,2020-09-25,393.470001,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+418,2020-09-28,424.619995,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+419,2020-09-29,416.0,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+420,2020-09-30,421.320007,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+421,2020-10-01,440.76001,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+422,2020-10-02,421.390015,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+423,2020-10-05,423.350006,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+424,2020-10-06,423.790009,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+425,2020-10-07,419.869995,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+426,2020-10-08,438.440002,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+427,2020-10-09,430.130005,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+428,2020-10-12,442.0,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+429,2020-10-13,443.350006,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+430,2020-10-14,449.779999,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+431,2020-10-15,450.309998,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+432,2020-10-16,454.440002,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+433,2020-10-19,446.23999,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+434,2020-10-20,431.75,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+435,2020-10-21,422.700012,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+436,2020-10-22,441.920013,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+437,2020-10-23,421.839996,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+438,2020-10-26,411.630005,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+439,2020-10-27,423.76001,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+440,2020-10-28,416.480011,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+441,2020-10-29,409.959991,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+442,2020-10-30,406.899994,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+443,2020-11-02,394.0,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+444,2020-11-03,409.730011,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+445,2020-11-04,430.619995,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+446,2020-11-05,428.299988,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+447,2020-11-06,436.100006,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+448,2020-11-09,439.5,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+449,2020-11-10,420.089996,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+450,2020-11-11,416.450012,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+451,2020-11-12,415.049988,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+452,2020-11-13,410.850006,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+453,2020-11-16,408.929993,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+454,2020-11-17,460.170013,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+455,2020-11-18,448.350006,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+456,2020-11-19,492.0,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+457,2020-11-20,497.98999,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+458,2020-11-23,503.5,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+459,2020-11-24,540.400024,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+460,2020-11-25,550.059998,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+461,2020-11-27,581.159973,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+462,2020-11-30,602.210022,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+463,2020-12-01,597.590027,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+464,2020-12-02,556.440002,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+465,2020-12-03,590.02002,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+466,2020-12-04,591.01001,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+467,2020-12-07,604.919983,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+468,2020-12-08,625.51001,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+469,2020-12-09,653.690002,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+470,2020-12-10,574.369995,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+471,2020-12-11,615.01001,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+472,2020-12-14,619.0,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+473,2020-12-15,643.280029,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+474,2020-12-16,628.22998,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+475,2020-12-17,628.190002,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+476,2020-12-18,668.900024,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+477,2020-12-21,666.23999,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+478,2020-12-22,648.0,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+479,2020-12-23,632.200012,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+480,2020-12-24,642.98999,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+481,2020-12-28,674.51001,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+482,2020-12-29,661.0,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+483,2020-12-30,672.0,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+484,2020-12-31,699.98999,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+485,2021-01-04,719.460022,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+486,2021-01-05,723.659973,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+487,2021-01-06,758.48999,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+488,2021-01-07,777.630005,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+489,2021-01-08,856.0,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+490,2021-01-11,849.400024,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+491,2021-01-12,831.0,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+492,2021-01-13,852.76001,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+493,2021-01-14,843.390015,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+494,2021-01-15,852.0,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+495,2021-01-19,837.799988,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+496,2021-01-20,858.73999,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+497,2021-01-21,855.0,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+498,2021-01-22,834.309998,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+499,2021-01-25,855.0,TSLA,open,Tesla Inc,Consumer Discretionary,NASDAQ
+500,2020-09-01,59.119999,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+501,2020-09-02,59.150002,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+502,2020-09-03,60.830002,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+503,2020-09-04,60.48,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+504,2020-09-08,60.799999,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+505,2020-09-09,60.119999,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+506,2020-09-10,60.23,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+507,2020-09-11,59.580002,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+508,2020-09-14,60.02,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+509,2020-09-15,60.110001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+510,2020-09-16,60.529999,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+511,2020-09-17,60.599998,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+512,2020-09-18,60.18,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+513,2020-09-21,60.0,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+514,2020-09-22,59.73,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+515,2020-09-23,59.830002,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+516,2020-09-24,59.0,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+517,2020-09-25,58.849998,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+518,2020-09-28,59.560001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+519,2020-09-29,59.279999,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+520,2020-09-30,59.459999,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+521,2020-10-01,59.400002,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+522,2020-10-02,59.290001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+523,2020-10-05,59.630001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+524,2020-10-06,59.759998,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+525,2020-10-07,59.619999,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+526,2020-10-08,59.119999,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+527,2020-10-09,59.25,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+528,2020-10-12,59.330002,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+529,2020-10-13,59.700001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+530,2020-10-14,59.459999,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+531,2020-10-15,58.110001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+532,2020-10-16,58.080002,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+533,2020-10-19,58.150002,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+534,2020-10-20,57.540001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+535,2020-10-21,57.110001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+536,2020-10-22,56.93,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+537,2020-10-23,57.75,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+538,2020-10-26,57.52,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+539,2020-10-27,57.700001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+540,2020-10-28,56.919998,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+541,2020-10-29,56.16,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+542,2020-10-30,56.599998,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+543,2020-11-02,57.669998,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+544,2020-11-03,57.810001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+545,2020-11-04,57.189999,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+546,2020-11-05,58.009998,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+547,2020-11-06,58.080002,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+548,2020-11-09,60.040001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+549,2020-11-10,60.279999,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+550,2020-11-11,61.290001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+551,2020-11-12,60.91,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+552,2020-11-13,60.630001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+553,2020-11-16,60.810001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+554,2020-11-17,60.560001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+555,2020-11-18,61.130001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+556,2020-11-19,60.400002,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+557,2020-11-20,60.209999,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+558,2020-11-23,60.009998,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+559,2020-11-24,60.599998,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+560,2020-11-25,60.669998,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+561,2020-11-27,60.52,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+562,2020-11-30,60.32,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+563,2020-12-01,60.43,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+564,2020-12-02,61.400002,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+565,2020-12-03,61.110001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+566,2020-12-04,61.549999,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+567,2020-12-07,61.52,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+568,2020-12-08,61.18,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+569,2020-12-09,61.450001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+570,2020-12-10,61.259998,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+571,2020-12-11,60.080002,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+572,2020-12-14,60.610001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+573,2020-12-15,60.07,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+574,2020-12-16,60.200001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+575,2020-12-17,59.98,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+576,2020-12-18,60.0,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+577,2020-12-21,60.060001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+578,2020-12-22,59.32,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+579,2020-12-23,59.200001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+580,2020-12-24,59.0,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+581,2020-12-28,59.16,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+582,2020-12-29,59.029999,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+583,2020-12-30,58.830002,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+584,2020-12-31,58.060001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+585,2021-01-04,58.959999,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+586,2021-01-05,58.860001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+587,2021-01-06,58.810001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+588,2021-01-07,58.27,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+589,2021-01-08,58.23,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+590,2021-01-11,57.75,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+591,2021-01-12,57.27,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+592,2021-01-13,57.220001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+593,2021-01-14,56.889999,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+594,2021-01-15,56.779999,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+595,2021-01-19,57.439999,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+596,2021-01-20,57.009998,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+597,2021-01-21,57.189999,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+598,2021-01-22,57.169998,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+599,2021-01-25,57.470001,VZ,open,Verizon Communications Inc.,Communication Services,NYSE
+600,2020-09-01,134.179993,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+601,2020-09-02,131.399994,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+602,2020-09-03,120.879997,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+603,2020-09-04,120.959999,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+604,2020-09-08,112.82,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+605,2020-09-09,117.32,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+606,2020-09-10,113.489998,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+607,2020-09-11,112.0,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+608,2020-09-14,115.360001,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+609,2020-09-15,115.540001,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+610,2020-09-16,112.129997,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+611,2020-09-17,110.339996,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+612,2020-09-18,106.839996,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+613,2020-09-21,110.080002,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+614,2020-09-22,111.809998,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+615,2020-09-23,107.120003,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+616,2020-09-24,108.220001,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+617,2020-09-25,112.279999,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+618,2020-09-28,114.959999,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+619,2020-09-29,114.089996,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+620,2020-09-30,115.809998,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+621,2020-10-01,116.790001,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+622,2020-10-02,113.019997,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+623,2020-10-05,116.5,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+624,2020-10-06,113.160004,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+625,2020-10-07,115.080002,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+626,2020-10-08,114.970001,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+627,2020-10-09,116.970001,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+628,2020-10-12,124.400002,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+629,2020-10-13,121.099998,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+630,2020-10-14,121.190002,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+631,2020-10-15,120.709999,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+632,2020-10-16,119.019997,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+633,2020-10-19,115.980003,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+634,2020-10-20,117.510002,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+635,2020-10-21,116.870003,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+636,2020-10-22,115.75,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+637,2020-10-23,115.040001,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+638,2020-10-26,115.050003,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+639,2020-10-27,116.599998,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+640,2020-10-28,111.199997,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+641,2020-10-29,115.32,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+642,2020-10-30,108.860001,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+643,2020-11-02,108.769997,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+644,2020-11-03,110.440002,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+645,2020-11-04,114.949997,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+646,2020-11-05,119.029999,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+647,2020-11-06,118.690002,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+648,2020-11-09,116.32,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+649,2020-11-10,115.970001,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+650,2020-11-11,119.489998,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+651,2020-11-12,119.209999,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+652,2020-11-13,119.260002,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+653,2020-11-16,120.300003,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+654,2020-11-17,119.389999,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+655,2020-11-18,118.029999,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+656,2020-11-19,118.639999,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+657,2020-11-20,117.339996,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+658,2020-11-23,113.849998,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+659,2020-11-24,115.169998,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+660,2020-11-25,116.029999,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+661,2020-11-27,116.589996,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+662,2020-11-30,119.050003,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+663,2020-12-01,122.720001,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+664,2020-12-02,123.080002,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+665,2020-12-03,122.940002,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+666,2020-12-04,122.25,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+667,2020-12-07,123.75,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+668,2020-12-08,124.379997,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+669,2020-12-09,121.779999,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+670,2020-12-10,123.239998,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+671,2020-12-11,122.410004,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+672,2020-12-14,121.779999,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+673,2020-12-15,127.879997,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+674,2020-12-16,127.809998,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+675,2020-12-17,128.699997,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+676,2020-12-18,126.660004,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+677,2020-12-21,128.229996,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+678,2020-12-22,131.880005,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+679,2020-12-23,130.960007,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+680,2020-12-24,131.970001,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+681,2020-12-28,136.690002,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+682,2020-12-29,134.869995,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+683,2020-12-30,133.720001,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+684,2020-12-31,132.690002,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+685,2021-01-04,129.410004,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+686,2021-01-05,131.009995,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+687,2021-01-06,126.599998,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+688,2021-01-07,130.919998,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+689,2021-01-08,132.050003,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+690,2021-01-11,128.979996,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+691,2021-01-12,128.800003,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+692,2021-01-13,130.889999,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+693,2021-01-14,128.910004,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+694,2021-01-15,127.139999,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+695,2021-01-19,127.830002,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+696,2021-01-20,132.029999,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+697,2021-01-21,136.869995,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+698,2021-01-22,139.070007,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+699,2021-01-25,142.919998,AAPL,close,Apple Inc.,Information Technology,NASDAQ
+700,2020-09-01,3499.120117,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+701,2020-09-02,3531.449951,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+702,2020-09-03,3368.0,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+703,2020-09-04,3294.620117,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+704,2020-09-08,3149.840088,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+705,2020-09-09,3268.610107,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+706,2020-09-10,3175.110107,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+707,2020-09-11,3116.219971,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+708,2020-09-14,3102.969971,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+709,2020-09-15,3156.129883,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+710,2020-09-16,3078.100098,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+711,2020-09-17,3008.72998,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+712,2020-09-18,2954.909912,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+713,2020-09-21,2960.469971,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+714,2020-09-22,3128.98999,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+715,2020-09-23,2999.860107,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+716,2020-09-24,3019.790039,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+717,2020-09-25,3095.129883,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+718,2020-09-28,3174.050049,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+719,2020-09-29,3144.879883,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+720,2020-09-30,3148.72998,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+721,2020-10-01,3221.26001,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+722,2020-10-02,3125.0,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+723,2020-10-05,3199.199951,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+724,2020-10-06,3099.959961,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+725,2020-10-07,3195.689941,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+726,2020-10-08,3190.550049,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+727,2020-10-09,3286.649902,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+728,2020-10-12,3442.929932,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+729,2020-10-13,3443.629883,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+730,2020-10-14,3363.709961,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+731,2020-10-15,3338.649902,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+732,2020-10-16,3272.709961,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+733,2020-10-19,3207.209961,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+734,2020-10-20,3217.01001,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+735,2020-10-21,3184.939941,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+736,2020-10-22,3176.399902,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+737,2020-10-23,3204.399902,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+738,2020-10-26,3207.040039,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+739,2020-10-27,3286.330078,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+740,2020-10-28,3162.780029,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+741,2020-10-29,3211.01001,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+742,2020-10-30,3036.149902,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+743,2020-11-02,3004.47998,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+744,2020-11-03,3048.409912,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+745,2020-11-04,3241.159912,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+746,2020-11-05,3322.0,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+747,2020-11-06,3311.370117,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+748,2020-11-09,3143.73999,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+749,2020-11-10,3035.02002,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+750,2020-11-11,3137.389893,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+751,2020-11-12,3110.280029,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+752,2020-11-13,3128.810059,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+753,2020-11-16,3131.060059,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+754,2020-11-17,3135.659912,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+755,2020-11-18,3105.459961,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+756,2020-11-19,3117.02002,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+757,2020-11-20,3099.399902,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+758,2020-11-23,3098.389893,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+759,2020-11-24,3118.060059,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+760,2020-11-25,3185.070068,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+761,2020-11-27,3195.340088,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+762,2020-11-30,3168.040039,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+763,2020-12-01,3220.080078,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+764,2020-12-02,3203.530029,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+765,2020-12-03,3186.72998,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+766,2020-12-04,3162.580078,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+767,2020-12-07,3158.0,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+768,2020-12-08,3177.290039,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+769,2020-12-09,3104.199951,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+770,2020-12-10,3101.48999,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+771,2020-12-11,3116.419922,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+772,2020-12-14,3156.969971,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+773,2020-12-15,3165.120117,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+774,2020-12-16,3240.959961,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+775,2020-12-17,3236.080078,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+776,2020-12-18,3201.649902,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+777,2020-12-21,3206.179932,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+778,2020-12-22,3206.52002,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+779,2020-12-23,3185.27002,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+780,2020-12-24,3172.689941,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+781,2020-12-28,3283.959961,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+782,2020-12-29,3322.0,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+783,2020-12-30,3285.850098,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+784,2020-12-31,3256.929932,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+785,2021-01-04,3186.629883,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+786,2021-01-05,3218.51001,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+787,2021-01-06,3138.379883,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+788,2021-01-07,3162.159912,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+789,2021-01-08,3182.699951,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+790,2021-01-11,3114.209961,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+791,2021-01-12,3120.830078,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+792,2021-01-13,3165.889893,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+793,2021-01-14,3127.469971,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+794,2021-01-15,3104.25,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+795,2021-01-19,3120.76001,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+796,2021-01-20,3263.379883,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+797,2021-01-21,3306.98999,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+798,2021-01-22,3292.22998,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+799,2021-01-25,3294.0,AMZN,close,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+800,2020-09-01,7.65,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+801,2020-09-02,7.71,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+802,2020-09-03,7.82,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+803,2020-09-04,7.65,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+804,2020-09-08,7.7,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+805,2020-09-09,7.35,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+806,2020-09-10,6.23,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+807,2020-09-11,6.09,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+808,2020-09-14,6.91,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+809,2020-09-15,7.09,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+810,2020-09-16,8.68,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+811,2020-09-17,9.2,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+812,2020-09-18,9.47,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+813,2020-09-21,8.75,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+814,2020-09-22,10.56,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+815,2020-09-23,10.04,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+816,2020-09-24,9.14,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+817,2020-09-25,10.02,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+818,2020-09-28,10.09,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+819,2020-09-29,10.35,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+820,2020-09-30,10.2,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+821,2020-10-01,9.77,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+822,2020-10-02,9.39,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+823,2020-10-05,9.46,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+824,2020-10-06,9.13,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+825,2020-10-07,9.36,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+826,2020-10-08,13.49,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+827,2020-10-09,12.02,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+828,2020-10-12,11.8,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+829,2020-10-13,11.88,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+830,2020-10-14,12.25,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+831,2020-10-15,13.83,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+832,2020-10-16,13.31,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+833,2020-10-19,13.91,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+834,2020-10-20,13.86,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+835,2020-10-21,14.1,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+836,2020-10-22,14.91,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+837,2020-10-23,15.0,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+838,2020-10-26,13.45,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+839,2020-10-27,12.69,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+840,2020-10-28,11.82,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+841,2020-10-29,11.73,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+842,2020-10-30,10.47,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+843,2020-11-02,10.75,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+844,2020-11-03,11.57,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+845,2020-11-04,10.91,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+846,2020-11-05,11.45,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+847,2020-11-06,11.86,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+848,2020-11-09,11.49,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+849,2020-11-10,11.1,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+850,2020-11-11,11.75,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+851,2020-11-12,11.13,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+852,2020-11-13,11.01,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+853,2020-11-16,12.06,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+854,2020-11-17,11.63,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+855,2020-11-18,11.57,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+856,2020-11-19,12.46,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+857,2020-11-20,12.71,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+858,2020-11-23,13.9,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+859,2020-11-24,13.67,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+860,2020-11-25,14.75,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+861,2020-11-27,16.08,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+862,2020-11-30,16.559999,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+863,2020-12-01,15.8,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+864,2020-12-02,16.58,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+865,2020-12-03,16.120001,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+866,2020-12-04,16.9,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+867,2020-12-07,16.35,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+868,2020-12-08,16.940001,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+869,2020-12-09,13.66,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+870,2020-12-10,14.12,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+871,2020-12-11,13.31,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+872,2020-12-14,12.72,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+873,2020-12-15,13.85,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+874,2020-12-16,13.85,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+875,2020-12-17,14.83,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+876,2020-12-18,15.63,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+877,2020-12-21,15.53,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+878,2020-12-22,19.459999,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+879,2020-12-23,20.57,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+880,2020-12-24,20.15,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+881,2020-12-28,20.99,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+882,2020-12-29,19.379999,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+883,2020-12-30,19.26,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+884,2020-12-31,18.84,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+885,2021-01-04,17.25,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+886,2021-01-05,17.370001,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+887,2021-01-06,18.360001,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+888,2021-01-07,18.08,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+889,2021-01-08,17.690001,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+890,2021-01-11,19.940001,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+891,2021-01-12,19.950001,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+892,2021-01-13,31.4,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+893,2021-01-14,39.91,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+894,2021-01-15,35.5,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+895,2021-01-19,39.360001,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+896,2021-01-20,39.119999,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+897,2021-01-21,43.029999,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+898,2021-01-22,65.010002,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+899,2021-01-25,76.790001,GME,close,GameStop Corp.,Consumer Discretionary,NYSE
+900,2020-09-01,49.119999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+901,2020-09-02,51.189999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+902,2020-09-03,50.48,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+903,2020-09-04,51.040001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+904,2020-09-08,49.810001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+905,2020-09-09,50.189999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+906,2020-09-10,50.0,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+907,2020-09-11,51.060001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+908,2020-09-14,50.709999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+909,2020-09-15,51.049999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+910,2020-09-16,50.790001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+911,2020-09-17,50.549999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+912,2020-09-18,50.450001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+913,2020-09-21,49.09,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+914,2020-09-22,49.66,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+915,2020-09-23,48.209999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+916,2020-09-24,48.700001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+917,2020-09-25,48.720001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+918,2020-09-28,49.279999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+919,2020-09-29,48.919998,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+920,2020-09-30,49.369999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+921,2020-10-01,49.18,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+922,2020-10-02,49.360001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+923,2020-10-05,49.380001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+924,2020-10-06,48.939999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+925,2020-10-07,49.560001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+926,2020-10-08,50.459999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+927,2020-10-09,50.810001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+928,2020-10-12,51.09,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+929,2020-10-13,50.220001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+930,2020-10-14,50.119999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+931,2020-10-15,49.990002,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+932,2020-10-16,50.029999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+933,2020-10-19,49.619999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+934,2020-10-20,50.25,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+935,2020-10-21,49.990002,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+936,2020-10-22,50.68,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+937,2020-10-23,50.52,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+938,2020-10-26,49.799999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+939,2020-10-27,49.900002,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+940,2020-10-28,47.959999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+941,2020-10-29,48.02,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+942,2020-10-30,48.060001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+943,2020-11-02,48.619999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+944,2020-11-03,49.349998,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+945,2020-11-04,49.169998,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+946,2020-11-05,49.439999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+947,2020-11-06,49.450001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+948,2020-11-09,52.57,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+949,2020-11-10,53.98,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+950,2020-11-11,53.580002,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+951,2020-11-12,53.009998,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+952,2020-11-13,53.450001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+953,2020-11-16,53.849998,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+954,2020-11-17,53.68,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+955,2020-11-18,52.610001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+956,2020-11-19,53.130001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+957,2020-11-20,52.669998,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+958,2020-11-23,52.68,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+959,2020-11-24,53.220001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+960,2020-11-25,52.93,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+961,2020-11-27,52.700001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+962,2020-11-30,51.599998,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+963,2020-12-01,52.040001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+964,2020-12-02,52.110001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+965,2020-12-03,52.779999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+966,2020-12-04,53.849998,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+967,2020-12-07,52.990002,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+968,2020-12-08,53.18,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+969,2020-12-09,53.330002,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+970,2020-12-10,53.049999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+971,2020-12-11,53.349998,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+972,2020-12-14,53.27,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+973,2020-12-15,53.84,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+974,2020-12-16,53.060001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+975,2020-12-17,53.27,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+976,2020-12-18,53.740002,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+977,2020-12-21,52.810001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+978,2020-12-22,52.759998,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+979,2020-12-23,53.080002,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+980,2020-12-24,53.439999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+981,2020-12-28,54.16,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+982,2020-12-29,54.130001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+983,2020-12-30,54.439999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+984,2020-12-31,54.84,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+985,2021-01-04,52.759998,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+986,2021-01-05,52.18,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+987,2021-01-06,50.52,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+988,2021-01-07,49.959999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+989,2021-01-08,51.080002,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+990,2021-01-11,50.200001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+991,2021-01-12,50.110001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+992,2021-01-13,50.16,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+993,2021-01-14,49.23,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+994,2021-01-15,48.700001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+995,2021-01-19,48.509998,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+996,2021-01-20,48.68,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+997,2021-01-21,48.950001,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+998,2021-01-22,48.490002,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+999,2021-01-25,48.779999,KO,close,Coca-Cola Company,Consumer Staples,NYSE
+1000,2020-09-01,475.049988,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1001,2020-09-02,447.369995,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1002,2020-09-03,407.0,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1003,2020-09-04,418.320007,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1004,2020-09-08,330.209991,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1005,2020-09-09,366.279999,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1006,2020-09-10,371.339996,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1007,2020-09-11,372.720001,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1008,2020-09-14,419.619995,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1009,2020-09-15,449.76001,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1010,2020-09-16,441.76001,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1011,2020-09-17,423.429993,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1012,2020-09-18,442.149994,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1013,2020-09-21,449.390015,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1014,2020-09-22,424.230011,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1015,2020-09-23,380.359985,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1016,2020-09-24,387.790009,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1017,2020-09-25,407.339996,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1018,2020-09-28,421.200012,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1019,2020-09-29,419.070007,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1020,2020-09-30,429.01001,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1021,2020-10-01,448.160004,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1022,2020-10-02,415.089996,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1023,2020-10-05,425.679993,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1024,2020-10-06,413.980011,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1025,2020-10-07,425.299988,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1026,2020-10-08,425.920013,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1027,2020-10-09,434.0,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1028,2020-10-12,442.299988,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1029,2020-10-13,446.649994,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1030,2020-10-14,461.299988,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1031,2020-10-15,448.880005,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1032,2020-10-16,439.670013,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1033,2020-10-19,430.829987,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1034,2020-10-20,421.940002,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1035,2020-10-21,422.640015,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1036,2020-10-22,425.790009,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1037,2020-10-23,420.630005,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1038,2020-10-26,420.279999,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1039,2020-10-27,424.679993,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1040,2020-10-28,406.019989,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1041,2020-10-29,410.829987,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1042,2020-10-30,388.040009,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1043,2020-11-02,400.51001,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1044,2020-11-03,423.899994,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1045,2020-11-04,420.980011,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1046,2020-11-05,438.089996,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1047,2020-11-06,429.950012,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1048,2020-11-09,421.26001,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1049,2020-11-10,410.359985,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1050,2020-11-11,417.130005,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1051,2020-11-12,411.76001,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1052,2020-11-13,408.5,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1053,2020-11-16,408.089996,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1054,2020-11-17,441.609985,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1055,2020-11-18,486.640015,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1056,2020-11-19,499.269989,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1057,2020-11-20,489.609985,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1058,2020-11-23,521.849976,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1059,2020-11-24,555.380005,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1060,2020-11-25,574.0,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1061,2020-11-27,585.76001,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1062,2020-11-30,567.599976,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1063,2020-12-01,584.76001,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1064,2020-12-02,568.820007,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1065,2020-12-03,593.380005,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1066,2020-12-04,599.039978,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1067,2020-12-07,641.76001,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1068,2020-12-08,649.880005,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1069,2020-12-09,604.47998,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1070,2020-12-10,627.070007,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1071,2020-12-11,609.98999,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1072,2020-12-14,639.830017,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1073,2020-12-15,633.25,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1074,2020-12-16,622.77002,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1075,2020-12-17,655.900024,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1076,2020-12-18,695.0,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1077,2020-12-21,649.859985,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1078,2020-12-22,640.340027,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1079,2020-12-23,645.97998,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1080,2020-12-24,661.77002,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1081,2020-12-28,663.690002,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1082,2020-12-29,665.98999,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1083,2020-12-30,694.780029,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1084,2020-12-31,705.669983,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1085,2021-01-04,729.77002,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1086,2021-01-05,735.109985,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1087,2021-01-06,755.97998,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1088,2021-01-07,816.039978,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1089,2021-01-08,880.02002,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1090,2021-01-11,811.190002,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1091,2021-01-12,849.440002,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1092,2021-01-13,854.409973,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1093,2021-01-14,845.0,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1094,2021-01-15,826.159973,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1095,2021-01-19,844.549988,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1096,2021-01-20,850.450012,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1097,2021-01-21,844.98999,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1098,2021-01-22,846.640015,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1099,2021-01-25,880.799988,TSLA,close,Tesla Inc,Consumer Discretionary,NASDAQ
+1100,2020-09-01,59.16,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1101,2020-09-02,60.529999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1102,2020-09-03,60.610001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1103,2020-09-04,60.48,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1104,2020-09-08,59.959999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1105,2020-09-09,60.040001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1106,2020-09-10,59.529999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1107,2020-09-11,59.790001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1108,2020-09-14,60.32,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1109,2020-09-15,60.599998,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1110,2020-09-16,60.369999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1111,2020-09-17,60.59,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1112,2020-09-18,60.349998,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1113,2020-09-21,59.610001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1114,2020-09-22,59.82,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1115,2020-09-23,58.91,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1116,2020-09-24,59.189999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1117,2020-09-25,59.389999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1118,2020-09-28,59.360001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1119,2020-09-29,59.240002,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1120,2020-09-30,59.490002,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1121,2020-10-01,59.450001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1122,2020-10-02,59.240002,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1123,2020-10-05,59.66,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1124,2020-10-06,59.459999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1125,2020-10-07,59.610001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1126,2020-10-08,59.189999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1127,2020-10-09,59.330002,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1128,2020-10-12,59.549999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1129,2020-10-13,59.360001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1130,2020-10-14,58.43,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1131,2020-10-15,58.16,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1132,2020-10-16,58.049999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1133,2020-10-19,57.299999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1134,2020-10-20,57.25,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1135,2020-10-21,56.75,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1136,2020-10-22,57.330002,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1137,2020-10-23,57.959999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1138,2020-10-26,57.810001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1139,2020-10-27,57.380001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1140,2020-10-28,56.310001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1141,2020-10-29,56.759998,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1142,2020-10-30,56.990002,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1143,2020-11-02,57.700001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1144,2020-11-03,57.75,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1145,2020-11-04,57.220001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1146,2020-11-05,58.150002,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1147,2020-11-06,58.529999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1148,2020-11-09,59.84,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1149,2020-11-10,61.099998,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1150,2020-11-11,61.0,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1151,2020-11-12,60.790001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1152,2020-11-13,61.060001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1153,2020-11-16,60.889999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1154,2020-11-17,60.75,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1155,2020-11-18,60.32,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1156,2020-11-19,60.209999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1157,2020-11-20,60.040001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1158,2020-11-23,60.23,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1159,2020-11-24,60.639999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1160,2020-11-25,60.41,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1161,2020-11-27,60.580002,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1162,2020-11-30,60.41,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1163,2020-12-01,60.580002,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1164,2020-12-02,61.360001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1165,2020-12-03,61.740002,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1166,2020-12-04,61.549999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1167,2020-12-07,61.349998,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1168,2020-12-08,61.450001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1169,2020-12-09,61.459999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1170,2020-12-10,60.509998,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1171,2020-12-11,60.349998,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1172,2020-12-14,59.98,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1173,2020-12-15,60.549999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1174,2020-12-16,59.91,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1175,2020-12-17,60.009998,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1176,2020-12-18,60.459999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1177,2020-12-21,59.490002,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1178,2020-12-22,58.990002,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1179,2020-12-23,58.959999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1180,2020-12-24,58.84,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1181,2020-12-28,58.98,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1182,2020-12-29,58.810001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1183,2020-12-30,58.139999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1184,2020-12-31,58.75,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1185,2021-01-04,58.849998,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1186,2021-01-05,58.580002,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1187,2021-01-06,59.290001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1188,2021-01-07,58.529999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1189,2021-01-08,57.799999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1190,2021-01-11,57.459999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1191,2021-01-12,57.259998,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1192,2021-01-13,57.060001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1193,2021-01-14,57.040001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1194,2021-01-15,57.380001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1195,2021-01-19,57.049999,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1196,2021-01-20,57.259998,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1197,2021-01-21,57.27,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1198,2021-01-22,57.470001,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1199,2021-01-25,58.419998,VZ,close,Verizon Communications Inc.,Communication Services,NYSE
+1200,2020-09-01,130.529999,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1201,2020-09-02,127.0,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1202,2020-09-03,120.5,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1203,2020-09-04,110.889999,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1204,2020-09-08,112.68,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1205,2020-09-09,115.260002,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1206,2020-09-10,112.5,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1207,2020-09-11,110.0,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1208,2020-09-14,112.800003,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1209,2020-09-15,113.610001,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1210,2020-09-16,112.040001,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1211,2020-09-17,108.709999,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1212,2020-09-18,106.089996,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1213,2020-09-21,103.099998,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1214,2020-09-22,109.160004,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1215,2020-09-23,106.769997,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1216,2020-09-24,105.0,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1217,2020-09-25,107.669998,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1218,2020-09-28,112.779999,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1219,2020-09-29,113.57,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1220,2020-09-30,113.620003,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1221,2020-10-01,115.830002,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1222,2020-10-02,112.220001,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1223,2020-10-05,113.550003,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1224,2020-10-06,112.25,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1225,2020-10-07,114.129997,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1226,2020-10-08,114.589996,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1227,2020-10-09,114.919998,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1228,2020-10-12,119.279999,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1229,2020-10-13,119.650002,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1230,2020-10-14,119.620003,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1231,2020-10-15,118.150002,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1232,2020-10-16,118.809998,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1233,2020-10-19,115.660004,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1234,2020-10-20,115.629997,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1235,2020-10-21,116.449997,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1236,2020-10-22,114.589996,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1237,2020-10-23,114.279999,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1238,2020-10-26,112.879997,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1239,2020-10-27,114.540001,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1240,2020-10-28,111.099998,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1241,2020-10-29,112.199997,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1242,2020-10-30,107.720001,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1243,2020-11-02,107.32,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1244,2020-11-03,108.730003,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1245,2020-11-04,112.349998,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1246,2020-11-05,116.870003,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1247,2020-11-06,116.129997,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1248,2020-11-09,116.050003,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1249,2020-11-10,114.129997,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1250,2020-11-11,116.440002,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1251,2020-11-12,118.57,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1252,2020-11-13,117.870003,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1253,2020-11-16,118.150002,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1254,2020-11-17,118.959999,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1255,2020-11-18,118.0,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1256,2020-11-19,116.809998,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1257,2020-11-20,117.290001,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1258,2020-11-23,113.75,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1259,2020-11-24,112.589996,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1260,2020-11-25,115.169998,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1261,2020-11-27,116.220001,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1262,2020-11-30,116.809998,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1263,2020-12-01,120.010002,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1264,2020-12-02,120.889999,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1265,2020-12-03,122.209999,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1266,2020-12-04,121.519997,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1267,2020-12-07,122.25,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1268,2020-12-08,123.089996,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1269,2020-12-09,121.0,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1270,2020-12-10,120.150002,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1271,2020-12-11,120.550003,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1272,2020-12-14,121.540001,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1273,2020-12-15,124.129997,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1274,2020-12-16,126.559998,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1275,2020-12-17,128.039993,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1276,2020-12-18,126.120003,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1277,2020-12-21,123.449997,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1278,2020-12-22,129.649994,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1279,2020-12-23,130.779999,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1280,2020-12-24,131.100006,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1281,2020-12-28,133.509995,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1282,2020-12-29,134.339996,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1283,2020-12-30,133.399994,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1284,2020-12-31,131.720001,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1285,2021-01-04,126.760002,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1286,2021-01-05,128.429993,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1287,2021-01-06,126.379997,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1288,2021-01-07,127.860001,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1289,2021-01-08,130.229996,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1290,2021-01-11,128.5,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1291,2021-01-12,126.860001,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1292,2021-01-13,128.490005,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1293,2021-01-14,128.759995,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1294,2021-01-15,127.0,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1295,2021-01-19,126.940002,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1296,2021-01-20,128.550003,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1297,2021-01-21,133.589996,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1298,2021-01-22,135.020004,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1299,2021-01-25,136.539993,AAPL,low,Apple Inc.,Information Technology,NASDAQ
+1300,2020-09-01,3467.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1301,2020-09-02,3486.689941,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1302,2020-09-03,3303.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1303,2020-09-04,3111.129883,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1304,2020-09-08,3130.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1305,2020-09-09,3185.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1306,2020-09-10,3170.550049,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1307,2020-09-11,3083.97998,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1308,2020-09-14,3096.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1309,2020-09-15,3108.919922,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1310,2020-09-16,3074.149902,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1311,2020-09-17,2972.550049,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1312,2020-09-18,2905.540039,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1313,2020-09-21,2871.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1314,2020-09-22,3000.199951,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1315,2020-09-23,2992.379883,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1316,2020-09-24,2965.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1317,2020-09-25,2999.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1318,2020-09-28,3117.169922,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1319,2020-09-29,3132.540039,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1320,2020-09-30,3133.98999,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1321,2020-10-01,3172.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1322,2020-10-02,3123.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1323,2020-10-05,3140.850098,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1324,2020-10-06,3090.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1325,2020-10-07,3132.389893,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1326,2020-10-08,3174.98999,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1327,2020-10-09,3197.830078,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1328,2020-10-12,3339.550049,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1329,2020-10-13,3424.219971,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1330,2020-10-14,3340.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1331,2020-10-15,3280.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1332,2020-10-16,3160.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1333,2020-10-19,3192.73999,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1334,2020-10-20,3192.01001,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1335,2020-10-21,3160.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1336,2020-10-22,3121.939941,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1337,2020-10-23,3140.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1338,2020-10-26,3153.300049,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1339,2020-10-27,3211.300049,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1340,2020-10-28,3162.469971,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1341,2020-10-29,3164.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1342,2020-10-30,3019.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1343,2020-11-02,2950.120117,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1344,2020-11-03,2980.97998,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1345,2020-11-04,3139.72998,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1346,2020-11-05,3288.879883,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1347,2020-11-06,3232.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1348,2020-11-09,3112.110107,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1349,2020-11-10,3019.47998,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1350,2020-11-11,3050.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1351,2020-11-12,3086.050049,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1352,2020-11-13,3085.389893,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1353,2020-11-16,3072.689941,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1354,2020-11-17,3135.26001,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1355,2020-11-18,3105.100098,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1356,2020-11-19,3080.919922,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1357,2020-11-20,3098.050049,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1358,2020-11-23,3065.459961,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1359,2020-11-24,3086.26001,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1360,2020-11-25,3140.26001,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1361,2020-11-27,3190.050049,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1362,2020-11-30,3125.550049,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1363,2020-12-01,3157.179932,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1364,2020-12-02,3173.26001,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1365,2020-12-03,3181.310059,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1366,2020-12-04,3158.76001,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1367,2020-12-07,3141.689941,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1368,2020-12-08,3120.02002,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1369,2020-12-09,3088.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1370,2020-12-10,3076.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1371,2020-12-11,3072.820068,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1372,2020-12-14,3126.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1373,2020-12-15,3130.48999,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1374,2020-12-16,3163.679932,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1375,2020-12-17,3221.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1376,2020-12-18,3171.600098,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1377,2020-12-21,3166.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1378,2020-12-22,3180.080078,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1379,2020-12-23,3184.169922,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1380,2020-12-24,3169.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1381,2020-12-28,3172.689941,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1382,2020-12-29,3281.219971,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1383,2020-12-30,3282.469971,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1384,2020-12-31,3241.199951,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1385,2021-01-04,3144.02002,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1386,2021-01-05,3165.060059,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1387,2021-01-06,3131.159912,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1388,2021-01-07,3155.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1389,2021-01-08,3142.199951,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1390,2021-01-11,3110.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1391,2021-01-12,3086.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1392,2021-01-13,3122.080078,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1393,2021-01-14,3120.590088,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1394,2021-01-15,3095.169922,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1395,2021-01-19,3096.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1396,2021-01-20,3175.0,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1397,2021-01-21,3289.570068,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1398,2021-01-22,3283.159912,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1399,2021-01-25,3243.149902,AMZN,low,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1400,2020-09-01,6.77,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1401,2020-09-02,7.11,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1402,2020-09-03,7.24,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1403,2020-09-04,7.17,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1404,2020-09-08,7.48,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1405,2020-09-09,7.31,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1406,2020-09-10,6.19,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1407,2020-09-11,5.87,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1408,2020-09-14,6.43,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1409,2020-09-15,6.69,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1410,2020-09-16,7.03,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1411,2020-09-17,8.41,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1412,2020-09-18,8.91,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1413,2020-09-21,8.38,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1414,2020-09-22,9.9,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1415,2020-09-23,9.92,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1416,2020-09-24,9.01,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1417,2020-09-25,9.1,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1418,2020-09-28,9.55,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1419,2020-09-29,9.93,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1420,2020-09-30,10.06,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1421,2020-10-01,9.69,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1422,2020-10-02,9.3,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1423,2020-10-05,9.25,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1424,2020-10-06,9.1,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1425,2020-10-07,9.17,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1426,2020-10-08,9.19,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1427,2020-10-09,11.9,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1428,2020-10-12,11.4,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1429,2020-10-13,11.65,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1430,2020-10-14,12.05,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1431,2020-10-15,11.99,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1432,2020-10-16,13.08,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1433,2020-10-19,13.38,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1434,2020-10-20,13.67,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1435,2020-10-21,13.8,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1436,2020-10-22,14.19,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1437,2020-10-23,14.55,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1438,2020-10-26,13.26,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1439,2020-10-27,12.36,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1440,2020-10-28,11.78,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1441,2020-10-29,11.68,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1442,2020-10-30,10.36,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1443,2020-11-02,10.5,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1444,2020-11-03,10.63,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1445,2020-11-04,10.61,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1446,2020-11-05,11.06,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1447,2020-11-06,11.32,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1448,2020-11-09,11.25,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1449,2020-11-10,10.83,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1450,2020-11-11,11.21,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1451,2020-11-12,10.97,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1452,2020-11-13,11.0,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1453,2020-11-16,10.72,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1454,2020-11-17,11.23,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1455,2020-11-18,11.56,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1456,2020-11-19,11.45,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1457,2020-11-20,12.54,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1458,2020-11-23,12.67,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1459,2020-11-24,13.3,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1460,2020-11-25,13.42,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1461,2020-11-27,14.88,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1462,2020-11-30,16.559999,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1463,2020-12-01,15.76,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1464,2020-12-02,15.38,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1465,2020-12-03,15.87,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1466,2020-12-04,16.26,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1467,2020-12-07,16.219999,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1468,2020-12-08,15.93,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1469,2020-12-09,13.23,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1470,2020-12-10,13.05,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1471,2020-12-11,13.02,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1472,2020-12-14,12.14,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1473,2020-12-15,12.48,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1474,2020-12-16,13.58,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1475,2020-12-17,13.59,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1476,2020-12-18,15.18,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1477,2020-12-21,15.28,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1478,2020-12-22,16.15,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1479,2020-12-23,19.129999,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1480,2020-12-24,19.950001,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1481,2020-12-28,20.35,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1482,2020-12-29,18.559999,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1483,2020-12-30,18.85,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1484,2020-12-31,18.799999,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1485,2021-01-04,17.15,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1486,2021-01-05,17.23,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1487,2021-01-06,17.33,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1488,2021-01-07,18.02,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1489,2021-01-08,17.08,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1490,2021-01-11,19.01,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1491,2021-01-12,19.32,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1492,2021-01-13,20.030001,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1493,2021-01-14,33.049999,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1494,2021-01-15,34.009998,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1495,2021-01-19,36.639999,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1496,2021-01-20,36.060001,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1497,2021-01-21,37.0,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1498,2021-01-22,42.32,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1499,2021-01-25,61.130001,GME,low,GameStop Corp.,Consumer Discretionary,NYSE
+1500,2020-09-01,48.830002,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1501,2020-09-02,49.360001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1502,2020-09-03,50.099998,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1503,2020-09-04,50.279999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1504,2020-09-08,49.360001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1505,2020-09-09,49.549999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1506,2020-09-10,49.950001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1507,2020-09-11,50.099998,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1508,2020-09-14,50.57,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1509,2020-09-15,50.84,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1510,2020-09-16,50.740002,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1511,2020-09-17,49.939999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1512,2020-09-18,50.209999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1513,2020-09-21,48.610001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1514,2020-09-22,49.07,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1515,2020-09-23,48.169998,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1516,2020-09-24,47.560001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1517,2020-09-25,47.98,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1518,2020-09-28,49.139999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1519,2020-09-29,48.91,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1520,2020-09-30,48.889999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1521,2020-10-01,48.59,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1522,2020-10-02,48.549999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1523,2020-10-05,49.119999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1524,2020-10-06,48.830002,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1525,2020-10-07,48.950001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1526,2020-10-08,49.540001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1527,2020-10-09,50.599998,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1528,2020-10-12,50.830002,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1529,2020-10-13,49.900002,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1530,2020-10-14,49.650002,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1531,2020-10-15,49.299999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1532,2020-10-16,49.869999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1533,2020-10-19,49.459999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1534,2020-10-20,49.790001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1535,2020-10-21,49.77,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1536,2020-10-22,50.380001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1537,2020-10-23,50.470001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1538,2020-10-26,49.200001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1539,2020-10-27,49.549999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1540,2020-10-28,47.779999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1541,2020-10-29,47.299999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1542,2020-10-30,47.369999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1543,2020-11-02,48.240002,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1544,2020-11-03,49.0,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1545,2020-11-04,49.080002,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1546,2020-11-05,49.34,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1547,2020-11-06,49.25,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1548,2020-11-09,52.07,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1549,2020-11-10,52.450001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1550,2020-11-11,53.330002,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1551,2020-11-12,52.610001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1552,2020-11-13,52.889999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1553,2020-11-16,53.279999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1554,2020-11-17,53.029999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1555,2020-11-18,52.560001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1556,2020-11-19,51.950001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1557,2020-11-20,52.59,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1558,2020-11-23,52.200001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1559,2020-11-24,53.02,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1560,2020-11-25,52.790001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1561,2020-11-27,52.610001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1562,2020-11-30,51.080002,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1563,2020-12-01,51.790001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1564,2020-12-02,51.639999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1565,2020-12-03,51.900002,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1566,2020-12-04,52.759998,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1567,2020-12-07,52.700001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1568,2020-12-08,52.790001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1569,2020-12-09,53.0,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1570,2020-12-10,52.98,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1571,2020-12-11,52.779999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1572,2020-12-14,53.18,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1573,2020-12-15,53.599998,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1574,2020-12-16,52.939999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1575,2020-12-17,53.150002,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1576,2020-12-18,52.619999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1577,2020-12-21,51.98,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1578,2020-12-22,52.389999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1579,2020-12-23,52.939999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1580,2020-12-24,53.02,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1581,2020-12-28,53.73,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1582,2020-12-29,54.02,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1583,2020-12-30,54.029999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1584,2020-12-31,54.27,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1585,2021-01-04,52.029999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1586,2021-01-05,52.029999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1587,2021-01-06,50.189999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1588,2021-01-07,49.52,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1589,2021-01-08,49.84,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1590,2021-01-11,49.950001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1591,2021-01-12,49.759998,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1592,2021-01-13,49.950001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1593,2021-01-14,49.220001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1594,2021-01-15,48.529999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1595,2021-01-19,48.240002,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1596,2021-01-20,48.310001,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1597,2021-01-21,48.459999,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1598,2021-01-22,48.490002,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1599,2021-01-25,48.240002,KO,low,Coca-Cola Company,Consumer Staples,NYSE
+1600,2020-09-01,470.51001,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1601,2020-09-02,405.119995,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1602,2020-09-03,402.0,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1603,2020-09-04,372.019989,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1604,2020-09-08,329.880005,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1605,2020-09-09,341.51001,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1606,2020-09-10,360.559998,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1607,2020-09-11,360.5,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1608,2020-09-14,373.299988,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1609,2020-09-15,430.700012,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1610,2020-09-16,435.309998,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1611,2020-09-17,408.0,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1612,2020-09-18,428.799988,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1613,2020-09-21,407.070007,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1614,2020-09-22,417.600006,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1615,2020-09-23,375.880005,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1616,2020-09-24,351.299988,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1617,2020-09-25,391.299988,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1618,2020-09-28,415.549988,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1619,2020-09-29,411.600006,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1620,2020-09-30,420.470001,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1621,2020-10-01,434.420013,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1622,2020-10-02,415.0,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1623,2020-10-05,419.329987,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1624,2020-10-06,406.049988,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1625,2020-10-07,413.850006,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1626,2020-10-08,425.299988,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1627,2020-10-09,426.459991,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1628,2020-10-12,438.579987,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1629,2020-10-13,436.600006,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1630,2020-10-14,447.350006,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1631,2020-10-15,442.5,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1632,2020-10-16,438.850006,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1633,2020-10-19,428.869995,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1634,2020-10-20,419.049988,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1635,2020-10-21,421.25,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1636,2020-10-22,424.51001,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1637,2020-10-23,407.380005,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1638,2020-10-26,410.0,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1639,2020-10-27,420.100006,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1640,2020-10-28,406.0,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1641,2020-10-29,406.459991,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1642,2020-10-30,379.109985,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1643,2020-11-02,392.299988,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1644,2020-11-03,406.690002,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1645,2020-11-04,417.100006,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1646,2020-11-05,424.0,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1647,2020-11-06,424.279999,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1648,2020-11-09,421.0,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1649,2020-11-10,396.029999,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1650,2020-11-11,410.579987,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1651,2020-11-12,409.519989,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1652,2020-11-13,401.660004,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1653,2020-11-16,404.089996,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1654,2020-11-17,433.01001,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1655,2020-11-18,443.5,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1656,2020-11-19,487.570007,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1657,2020-11-20,489.059998,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1658,2020-11-23,501.790009,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1659,2020-11-24,526.200012,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1660,2020-11-25,545.369995,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1661,2020-11-27,578.450012,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1662,2020-11-30,554.51001,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1663,2020-12-01,572.049988,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1664,2020-12-02,541.210022,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1665,2020-12-03,582.429993,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1666,2020-12-04,585.5,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1667,2020-12-07,603.049988,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1668,2020-12-08,618.5,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1669,2020-12-09,588.0,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1670,2020-12-10,566.340027,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1671,2020-12-11,596.799988,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1672,2020-12-14,610.200012,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1673,2020-12-15,623.799988,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1674,2020-12-16,605.0,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1675,2020-12-17,619.5,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1676,2020-12-18,628.539978,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1677,2020-12-21,646.070007,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1678,2020-12-22,614.22998,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1679,2020-12-23,622.570007,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1680,2020-12-24,641.0,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1681,2020-12-28,660.799988,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1682,2020-12-29,655.0,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1683,2020-12-30,668.359985,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1684,2020-12-31,691.119995,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1685,2021-01-04,717.190002,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1686,2021-01-05,719.200012,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1687,2021-01-06,749.099976,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1688,2021-01-07,775.200012,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1689,2021-01-08,838.390015,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1690,2021-01-11,803.619995,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1691,2021-01-12,827.340027,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1692,2021-01-13,832.0,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1693,2021-01-14,838.75,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1694,2021-01-15,819.099976,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1695,2021-01-19,833.0,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1696,2021-01-20,837.280029,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1697,2021-01-21,841.419983,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1698,2021-01-22,828.619995,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1699,2021-01-25,838.820007,TSLA,low,Tesla Inc,Consumer Discretionary,NASDAQ
+1700,2020-09-01,58.779999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1701,2020-09-02,59.0,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1702,2020-09-03,60.139999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1703,2020-09-04,60.060001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1704,2020-09-08,59.619999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1705,2020-09-09,59.970001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1706,2020-09-10,59.41,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1707,2020-09-11,59.360001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1708,2020-09-14,60.0,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1709,2020-09-15,60.099998,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1710,2020-09-16,60.32,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1711,2020-09-17,60.099998,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1712,2020-09-18,60.150002,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1713,2020-09-21,59.02,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1714,2020-09-22,59.52,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1715,2020-09-23,58.849998,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1716,2020-09-24,58.650002,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1717,2020-09-25,58.810001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1718,2020-09-28,59.18,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1719,2020-09-29,59.099998,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1720,2020-09-30,59.049999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1721,2020-10-01,59.029999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1722,2020-10-02,59.110001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1723,2020-10-05,59.259998,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1724,2020-10-06,59.330002,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1725,2020-10-07,59.200001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1726,2020-10-08,58.970001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1727,2020-10-09,59.080002,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1728,2020-10-12,59.150002,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1729,2020-10-13,58.849998,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1730,2020-10-14,58.389999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1731,2020-10-15,57.720001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1732,2020-10-16,58.009998,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1733,2020-10-19,57.080002,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1734,2020-10-20,56.759998,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1735,2020-10-21,56.689999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1736,2020-10-22,56.509998,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1737,2020-10-23,57.459999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1738,2020-10-26,56.970001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1739,2020-10-27,57.310001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1740,2020-10-28,56.119999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1741,2020-10-29,56.02,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1742,2020-10-30,56.369999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1743,2020-11-02,57.0,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1744,2020-11-03,57.509998,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1745,2020-11-04,56.580002,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1746,2020-11-05,57.799999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1747,2020-11-06,58.009998,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1748,2020-11-09,59.509998,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1749,2020-11-10,60.200001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1750,2020-11-11,60.470001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1751,2020-11-12,60.34,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1752,2020-11-13,60.380001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1753,2020-11-16,60.700001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1754,2020-11-17,60.360001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1755,2020-11-18,60.299999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1756,2020-11-19,59.900002,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1757,2020-11-20,59.950001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1758,2020-11-23,60.0,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1759,2020-11-24,60.360001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1760,2020-11-25,60.330002,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1761,2020-11-27,60.41,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1762,2020-11-30,60.189999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1763,2020-12-01,60.279999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1764,2020-12-02,61.009998,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1765,2020-12-03,61.040001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1766,2020-12-04,61.27,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1767,2020-12-07,61.18,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1768,2020-12-08,60.880001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1769,2020-12-09,61.09,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1770,2020-12-10,60.330002,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1771,2020-12-11,59.970001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1772,2020-12-14,59.77,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1773,2020-12-15,59.970001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1774,2020-12-16,59.669998,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1775,2020-12-17,59.610001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1776,2020-12-18,59.790001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1777,2020-12-21,59.279999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1778,2020-12-22,58.860001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1779,2020-12-23,58.889999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1780,2020-12-24,58.66,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1781,2020-12-28,58.650002,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1782,2020-12-29,58.639999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1783,2020-12-30,58.060001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1784,2020-12-31,58.02,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1785,2021-01-04,58.439999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1786,2021-01-05,58.459999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1787,2021-01-06,58.540001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1788,2021-01-07,58.080002,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1789,2021-01-08,57.369999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1790,2021-01-11,57.290001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1791,2021-01-12,56.689999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1792,2021-01-13,56.880001,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1793,2021-01-14,56.66,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1794,2021-01-15,56.709999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1795,2021-01-19,56.98,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1796,2021-01-20,56.66,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1797,2021-01-21,57.049999,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1798,2021-01-22,56.759998,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1799,2021-01-25,57.18,VZ,low,Verizon Communications Inc.,Communication Services,NYSE
+1800,2020-09-01,134.800003,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1801,2020-09-02,137.979996,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1802,2020-09-03,128.839996,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1803,2020-09-04,123.699997,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1804,2020-09-08,118.989998,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1805,2020-09-09,119.139999,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1806,2020-09-10,120.5,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1807,2020-09-11,115.230003,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1808,2020-09-14,115.93,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1809,2020-09-15,118.830002,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1810,2020-09-16,116.0,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1811,2020-09-17,112.199997,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1812,2020-09-18,110.879997,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1813,2020-09-21,110.190002,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1814,2020-09-22,112.860001,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1815,2020-09-23,112.110001,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1816,2020-09-24,110.25,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1817,2020-09-25,112.440002,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1818,2020-09-28,115.32,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1819,2020-09-29,115.309998,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1820,2020-09-30,117.260002,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1821,2020-10-01,117.720001,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1822,2020-10-02,115.370003,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1823,2020-10-05,116.650002,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1824,2020-10-06,116.120003,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1825,2020-10-07,115.550003,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1826,2020-10-08,116.400002,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1827,2020-10-09,117.0,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1828,2020-10-12,125.18,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1829,2020-10-13,125.389999,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1830,2020-10-14,123.029999,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1831,2020-10-15,121.199997,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1832,2020-10-16,121.550003,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1833,2020-10-19,120.419998,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1834,2020-10-20,118.980003,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1835,2020-10-21,118.709999,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1836,2020-10-22,118.040001,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1837,2020-10-23,116.550003,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1838,2020-10-26,116.550003,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1839,2020-10-27,117.279999,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1840,2020-10-28,115.43,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1841,2020-10-29,116.93,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1842,2020-10-30,111.989998,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1843,2020-11-02,110.68,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1844,2020-11-03,111.489998,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1845,2020-11-04,115.589996,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1846,2020-11-05,119.620003,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1847,2020-11-06,119.199997,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1848,2020-11-09,121.989998,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1849,2020-11-10,117.589996,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1850,2020-11-11,119.629997,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1851,2020-11-12,120.529999,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1852,2020-11-13,119.669998,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1853,2020-11-16,120.989998,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1854,2020-11-17,120.669998,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1855,2020-11-18,119.82,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1856,2020-11-19,119.059998,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1857,2020-11-20,118.769997,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1858,2020-11-23,117.620003,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1859,2020-11-24,115.849998,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1860,2020-11-25,116.75,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1861,2020-11-27,117.489998,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1862,2020-11-30,120.970001,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1863,2020-12-01,123.470001,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1864,2020-12-02,123.370003,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1865,2020-12-03,123.779999,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1866,2020-12-04,122.860001,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1867,2020-12-07,124.57,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1868,2020-12-08,124.980003,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1869,2020-12-09,125.949997,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1870,2020-12-10,123.870003,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1871,2020-12-11,122.760002,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1872,2020-12-14,123.349998,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1873,2020-12-15,127.900002,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1874,2020-12-16,128.369995,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1875,2020-12-17,129.580002,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1876,2020-12-18,129.100006,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1877,2020-12-21,128.309998,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1878,2020-12-22,134.410004,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1879,2020-12-23,132.429993,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1880,2020-12-24,133.460007,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1881,2020-12-28,137.339996,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1882,2020-12-29,138.789993,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1883,2020-12-30,135.990005,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1884,2020-12-31,134.740005,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1885,2021-01-04,133.610001,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1886,2021-01-05,131.740005,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1887,2021-01-06,131.050003,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1888,2021-01-07,131.630005,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1889,2021-01-08,132.630005,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1890,2021-01-11,130.169998,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1891,2021-01-12,129.690002,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1892,2021-01-13,131.449997,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1893,2021-01-14,131.0,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1894,2021-01-15,130.220001,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1895,2021-01-19,128.710007,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1896,2021-01-20,132.490005,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1897,2021-01-21,139.669998,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1898,2021-01-22,139.850006,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1899,2021-01-25,145.089996,AAPL,high,Apple Inc.,Information Technology,NASDAQ
+1900,2020-09-01,3513.870117,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1901,2020-09-02,3552.25,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1902,2020-09-03,3488.409912,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1903,2020-09-04,3381.5,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1904,2020-09-08,3250.850098,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1905,2020-09-09,3303.179932,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1906,2020-09-10,3349.889893,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1907,2020-09-11,3217.340088,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1908,2020-09-14,3187.389893,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1909,2020-09-15,3175.02002,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1910,2020-09-16,3187.23999,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1911,2020-09-17,3029.429932,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1912,2020-09-18,3037.800049,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1913,2020-09-21,2962.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1914,2020-09-22,3133.98999,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1915,2020-09-23,3127.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1916,2020-09-24,3069.300049,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1917,2020-09-25,3101.540039,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1918,2020-09-28,3175.040039,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1919,2020-09-29,3188.26001,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1920,2020-09-30,3212.879883,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1921,2020-10-01,3224.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1922,2020-10-02,3195.800049,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1923,2020-10-05,3202.530029,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1924,2020-10-06,3182.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1925,2020-10-07,3200.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1926,2020-10-08,3233.290039,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1927,2020-10-09,3288.98999,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1928,2020-10-12,3496.23999,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1929,2020-10-13,3492.379883,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1930,2020-10-14,3464.879883,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1931,2020-10-15,3355.879883,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1932,2020-10-16,3399.659912,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1933,2020-10-19,3329.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1934,2020-10-20,3266.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1935,2020-10-21,3233.879883,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1936,2020-10-22,3198.75,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1937,2020-10-23,3205.330078,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1938,2020-10-26,3282.97998,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1939,2020-10-27,3291.659912,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1940,2020-10-28,3264.02002,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1941,2020-10-29,3257.25,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1942,2020-10-30,3167.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1943,2020-11-02,3079.709961,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1944,2020-11-03,3074.899902,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1945,2020-11-04,3244.850098,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1946,2020-11-05,3366.800049,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1947,2020-11-06,3322.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1948,2020-11-09,3289.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1949,2020-11-10,3114.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1950,2020-11-11,3139.149902,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1951,2020-11-12,3175.879883,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1952,2020-11-13,3141.719971,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1953,2020-11-16,3142.699951,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1954,2020-11-17,3189.25,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1955,2020-11-18,3140.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1956,2020-11-19,3125.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1957,2020-11-20,3132.889893,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1958,2020-11-23,3139.75,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1959,2020-11-24,3134.25,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1960,2020-11-25,3198.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1961,2020-11-27,3216.189941,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1962,2020-11-30,3228.389893,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1963,2020-12-01,3248.949951,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1964,2020-12-02,3232.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1965,2020-12-03,3228.639893,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1966,2020-12-04,3198.209961,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1967,2020-12-07,3180.76001,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1968,2020-12-08,3184.129883,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1969,2020-12-09,3174.429932,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1970,2020-12-10,3142.100098,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1971,2020-12-11,3118.669922,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1972,2020-12-14,3190.469971,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1973,2020-12-15,3188.5,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1974,2020-12-16,3247.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1975,2020-12-17,3263.51001,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1976,2020-12-18,3249.419922,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1977,2020-12-21,3226.969971,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1978,2020-12-22,3222.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1979,2020-12-23,3210.129883,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1980,2020-12-24,3202.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1981,2020-12-28,3304.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1982,2020-12-29,3350.649902,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1983,2020-12-30,3342.100098,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1984,2020-12-31,3282.919922,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1985,2021-01-04,3272.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1986,2021-01-05,3223.379883,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1987,2021-01-06,3197.51001,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1988,2021-01-07,3208.540039,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1989,2021-01-08,3190.639893,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1990,2021-01-11,3156.379883,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1991,2021-01-12,3142.139893,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1992,2021-01-13,3189.949951,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1993,2021-01-14,3178.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1994,2021-01-15,3142.550049,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1995,2021-01-19,3145.0,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1996,2021-01-20,3279.800049,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1997,2021-01-21,3348.550049,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1998,2021-01-22,3321.909912,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+1999,2021-01-25,3363.889893,AMZN,high,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+2000,2020-09-01,7.82,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2001,2020-09-02,8.05,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2002,2020-09-03,8.45,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2003,2020-09-04,7.92,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2004,2020-09-08,8.28,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2005,2020-09-09,7.99,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2006,2020-09-10,6.95,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2007,2020-09-11,6.33,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2008,2020-09-14,7.0,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2009,2020-09-15,7.26,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2010,2020-09-16,9.04,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2011,2020-09-17,9.77,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2012,2020-09-18,9.77,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2013,2020-09-21,9.6,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2014,2020-09-22,11.17,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2015,2020-09-23,10.86,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2016,2020-09-24,9.81,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2017,2020-09-25,10.18,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2018,2020-09-28,10.26,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2019,2020-09-29,10.65,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2020,2020-09-30,10.76,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2021,2020-10-01,10.25,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2022,2020-10-02,9.78,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2023,2020-10-05,9.59,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2024,2020-10-06,9.84,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2025,2020-10-07,9.56,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2026,2020-10-08,13.64,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2027,2020-10-09,14.8,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2028,2020-10-12,12.77,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2029,2020-10-13,12.42,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2030,2020-10-14,12.68,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2031,2020-10-15,15.1,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2032,2020-10-16,13.9,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2033,2020-10-19,14.5,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2034,2020-10-20,14.14,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2035,2020-10-21,14.42,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2036,2020-10-22,15.87,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2037,2020-10-23,15.38,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2038,2020-10-26,15.45,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2039,2020-10-27,13.71,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2040,2020-10-28,13.05,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2041,2020-10-29,12.25,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2042,2020-10-30,11.64,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2043,2020-11-02,11.09,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2044,2020-11-03,11.86,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2045,2020-11-04,11.77,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2046,2020-11-05,11.84,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2047,2020-11-06,12.17,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2048,2020-11-09,12.93,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2049,2020-11-10,11.66,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2050,2020-11-11,11.95,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2051,2020-11-12,11.87,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2052,2020-11-13,11.55,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2053,2020-11-16,12.66,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2054,2020-11-17,11.92,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2055,2020-11-18,12.04,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2056,2020-11-19,12.79,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2057,2020-11-20,13.46,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2058,2020-11-23,14.12,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2059,2020-11-24,14.26,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2060,2020-11-25,15.25,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2061,2020-11-27,16.74,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2062,2020-11-30,19.42,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2063,2020-12-01,17.4,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2064,2020-12-02,16.68,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2065,2020-12-03,16.639999,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2066,2020-12-04,17.290001,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2067,2020-12-07,17.5,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2068,2020-12-08,17.209999,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2069,2020-12-09,14.73,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2070,2020-12-10,14.41,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2071,2020-12-11,14.0,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2072,2020-12-14,13.43,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2073,2020-12-15,14.02,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2074,2020-12-16,14.31,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2075,2020-12-17,14.98,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2076,2020-12-18,16.299999,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2077,2020-12-21,16.35,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2078,2020-12-22,20.040001,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2079,2020-12-23,22.35,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2080,2020-12-24,21.48,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2081,2020-12-28,21.969999,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2082,2020-12-29,21.07,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2083,2020-12-30,20.0,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2084,2020-12-31,19.799999,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2085,2021-01-04,19.1,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2086,2021-01-05,18.08,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2087,2021-01-06,18.98,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2088,2021-01-07,19.450001,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2089,2021-01-08,18.299999,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2090,2021-01-11,20.65,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2091,2021-01-12,20.4,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2092,2021-01-13,38.650002,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2093,2021-01-14,43.060001,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2094,2021-01-15,40.75,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2095,2021-01-19,45.52,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2096,2021-01-20,41.189999,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2097,2021-01-21,44.75,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2098,2021-01-22,76.760002,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2099,2021-01-25,159.179993,GME,high,GameStop Corp.,Consumer Discretionary,NYSE
+2100,2020-09-01,49.349998,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2101,2020-09-02,51.360001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2102,2020-09-03,52.139999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2103,2020-09-04,51.470001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2104,2020-09-08,51.040001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2105,2020-09-09,50.759998,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2106,2020-09-10,50.68,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2107,2020-09-11,51.200001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2108,2020-09-14,51.23,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2109,2020-09-15,51.380001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2110,2020-09-16,51.450001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2111,2020-09-17,50.630001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2112,2020-09-18,51.16,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2113,2020-09-21,50.02,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2114,2020-09-22,50.040001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2115,2020-09-23,49.919998,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2116,2020-09-24,49.099998,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2117,2020-09-25,48.759998,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2118,2020-09-28,49.709999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2119,2020-09-29,49.560001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2120,2020-09-30,49.619999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2121,2020-10-01,49.66,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2122,2020-10-02,49.580002,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2123,2020-10-05,49.549999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2124,2020-10-06,49.73,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2125,2020-10-07,49.759998,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2126,2020-10-08,50.540001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2127,2020-10-09,51.23,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2128,2020-10-12,51.529999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2129,2020-10-13,50.990002,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2130,2020-10-14,50.490002,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2131,2020-10-15,50.130001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2132,2020-10-16,50.349998,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2133,2020-10-19,50.48,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2134,2020-10-20,50.619999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2135,2020-10-21,50.43,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2136,2020-10-22,51.200001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2137,2020-10-23,51.18,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2138,2020-10-26,50.509998,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2139,2020-10-27,50.290001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2140,2020-10-28,49.150002,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2141,2020-10-29,48.48,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2142,2020-10-30,48.119999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2143,2020-11-02,48.950001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2144,2020-11-03,49.959999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2145,2020-11-04,50.209999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2146,2020-11-05,50.209999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2147,2020-11-06,49.990002,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2148,2020-11-09,53.259998,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2149,2020-11-10,54.279999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2150,2020-11-11,54.299999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2151,2020-11-12,53.209999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2152,2020-11-13,53.5,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2153,2020-11-16,54.619999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2154,2020-11-17,53.75,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2155,2020-11-18,54.02,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2156,2020-11-19,53.23,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2157,2020-11-20,53.25,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2158,2020-11-23,53.169998,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2159,2020-11-24,53.59,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2160,2020-11-25,53.279999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2161,2020-11-27,53.189999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2162,2020-11-30,52.189999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2163,2020-12-01,52.330002,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2164,2020-12-02,52.130001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2165,2020-12-03,52.939999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2166,2020-12-04,53.869999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2167,2020-12-07,53.779999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2168,2020-12-08,53.48,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2169,2020-12-09,53.599998,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2170,2020-12-10,53.509998,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2171,2020-12-11,53.540001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2172,2020-12-14,53.84,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2173,2020-12-15,54.220001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2174,2020-12-16,53.799999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2175,2020-12-17,53.709999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2176,2020-12-18,53.84,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2177,2020-12-21,53.0,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2178,2020-12-22,53.18,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2179,2020-12-23,53.389999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2180,2020-12-24,53.549999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2181,2020-12-28,54.439999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2182,2020-12-29,54.490002,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2183,2020-12-30,54.630001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2184,2020-12-31,54.93,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2185,2021-01-04,54.630001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2186,2021-01-05,52.619999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2187,2021-01-06,52.02,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2188,2021-01-07,50.259998,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2189,2021-01-08,51.130001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2190,2021-01-11,50.860001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2191,2021-01-12,50.369999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2192,2021-01-13,50.360001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2193,2021-01-14,50.18,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2194,2021-01-15,49.18,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2195,2021-01-19,49.040001,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2196,2021-01-20,48.82,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2197,2021-01-21,49.09,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2198,2021-01-22,48.939999,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2199,2021-01-25,48.84,KO,high,Coca-Cola Company,Consumer Staples,NYSE
+2200,2020-09-01,502.48999,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2201,2020-09-02,479.040009,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2202,2020-09-03,431.799988,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2203,2020-09-04,428.0,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2204,2020-09-08,368.73999,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2205,2020-09-09,369.0,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2206,2020-09-10,398.98999,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2207,2020-09-11,382.5,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2208,2020-09-14,420.0,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2209,2020-09-15,461.940002,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2210,2020-09-16,457.790009,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2211,2020-09-17,437.790009,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2212,2020-09-18,451.0,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2213,2020-09-21,455.679993,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2214,2020-09-22,437.76001,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2215,2020-09-23,412.149994,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2216,2020-09-24,399.5,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2217,2020-09-25,408.730011,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2218,2020-09-28,428.079987,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2219,2020-09-29,428.5,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2220,2020-09-30,433.929993,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2221,2020-10-01,448.880005,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2222,2020-10-02,439.130005,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2223,2020-10-05,433.640015,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2224,2020-10-06,428.779999,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2225,2020-10-07,429.899994,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2226,2020-10-08,439.0,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2227,2020-10-09,434.589996,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2228,2020-10-12,448.73999,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2229,2020-10-13,448.890015,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2230,2020-10-14,465.899994,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2231,2020-10-15,456.570007,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2232,2020-10-16,455.950012,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2233,2020-10-19,447.0,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2234,2020-10-20,431.75,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2235,2020-10-21,432.950012,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2236,2020-10-22,445.230011,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2237,2020-10-23,422.890015,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2238,2020-10-26,425.76001,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2239,2020-10-27,430.5,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2240,2020-10-28,418.600006,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2241,2020-10-29,418.059998,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2242,2020-10-30,407.589996,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2243,2020-11-02,406.980011,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2244,2020-11-03,427.769989,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2245,2020-11-04,435.399994,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2246,2020-11-05,440.0,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2247,2020-11-06,436.570007,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2248,2020-11-09,452.5,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2249,2020-11-10,420.089996,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2250,2020-11-11,418.700012,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2251,2020-11-12,423.0,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2252,2020-11-13,412.529999,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2253,2020-11-16,412.450012,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2254,2020-11-17,462.0,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2255,2020-11-18,496.0,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2256,2020-11-19,508.609985,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2257,2020-11-20,502.5,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2258,2020-11-23,526.0,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2259,2020-11-24,559.98999,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2260,2020-11-25,574.0,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2261,2020-11-27,598.780029,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2262,2020-11-30,607.799988,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2263,2020-12-01,597.849976,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2264,2020-12-02,571.539978,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2265,2020-12-03,598.969971,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2266,2020-12-04,599.039978,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2267,2020-12-07,648.789978,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2268,2020-12-08,651.280029,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2269,2020-12-09,654.320007,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2270,2020-12-10,627.75,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2271,2020-12-11,624.0,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2272,2020-12-14,642.75,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2273,2020-12-15,646.900024,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2274,2020-12-16,632.5,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2275,2020-12-17,658.820007,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2276,2020-12-18,695.0,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2277,2020-12-21,668.5,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2278,2020-12-22,649.880005,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2279,2020-12-23,651.5,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2280,2020-12-24,666.090027,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2281,2020-12-28,681.400024,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2282,2020-12-29,669.900024,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2283,2020-12-30,696.599976,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2284,2020-12-31,718.719971,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2285,2021-01-04,744.48999,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2286,2021-01-05,740.840027,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2287,2021-01-06,774.0,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2288,2021-01-07,816.98999,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2289,2021-01-08,884.48999,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2290,2021-01-11,854.429993,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2291,2021-01-12,868.0,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2292,2021-01-13,860.469971,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2293,2021-01-14,863.0,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2294,2021-01-15,859.900024,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2295,2021-01-19,850.0,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2296,2021-01-20,859.5,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2297,2021-01-21,855.719971,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2298,2021-01-22,848.0,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2299,2021-01-25,900.400024,TSLA,high,Tesla Inc,Consumer Discretionary,NASDAQ
+2300,2020-09-01,59.299999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2301,2020-09-02,60.740002,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2302,2020-09-03,61.279999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2303,2020-09-04,61.5,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2304,2020-09-08,60.799999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2305,2020-09-09,60.75,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2306,2020-09-10,60.25,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2307,2020-09-11,59.959999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2308,2020-09-14,60.779999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2309,2020-09-15,61.099998,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2310,2020-09-16,60.93,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2311,2020-09-17,60.990002,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2312,2020-09-18,60.939999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2313,2020-09-21,60.080002,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2314,2020-09-22,60.369999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2315,2020-09-23,60.139999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2316,2020-09-24,59.560001,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2317,2020-09-25,59.450001,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2318,2020-09-28,59.799999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2319,2020-09-29,59.490002,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2320,2020-09-30,59.709999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2321,2020-10-01,59.599998,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2322,2020-10-02,59.549999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2323,2020-10-05,59.84,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2324,2020-10-06,59.970001,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2325,2020-10-07,59.779999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2326,2020-10-08,59.73,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2327,2020-10-09,59.540001,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2328,2020-10-12,59.68,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2329,2020-10-13,59.720001,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2330,2020-10-14,59.52,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2331,2020-10-15,58.279999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2332,2020-10-16,58.43,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2333,2020-10-19,58.290001,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2334,2020-10-20,57.669998,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2335,2020-10-21,57.709999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2336,2020-10-22,57.66,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2337,2020-10-23,57.970001,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2338,2020-10-26,57.849998,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2339,2020-10-27,57.849998,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2340,2020-10-28,57.349998,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2341,2020-10-29,57.310001,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2342,2020-10-30,57.07,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2343,2020-11-02,58.209999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2344,2020-11-03,58.380001,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2345,2020-11-04,57.849998,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2346,2020-11-05,58.970001,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2347,2020-11-06,58.75,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2348,2020-11-09,60.580002,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2349,2020-11-10,61.41,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2350,2020-11-11,61.349998,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2351,2020-11-12,61.009998,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2352,2020-11-13,61.189999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2353,2020-11-16,61.459999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2354,2020-11-17,61.02,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2355,2020-11-18,61.150002,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2356,2020-11-19,60.439999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2357,2020-11-20,60.330002,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2358,2020-11-23,60.389999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2359,2020-11-24,60.799999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2360,2020-11-25,60.740002,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2361,2020-11-27,60.740002,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2362,2020-11-30,60.599998,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2363,2020-12-01,60.919998,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2364,2020-12-02,61.950001,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2365,2020-12-03,61.830002,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2366,2020-12-04,61.799999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2367,2020-12-07,61.700001,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2368,2020-12-08,61.700001,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2369,2020-12-09,61.82,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2370,2020-12-10,61.349998,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2371,2020-12-11,60.529999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2372,2020-12-14,61.060001,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2373,2020-12-15,60.740002,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2374,2020-12-16,60.450001,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2375,2020-12-17,60.150002,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2376,2020-12-18,60.779999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2377,2020-12-21,60.130001,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2378,2020-12-22,59.419998,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2379,2020-12-23,59.279999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2380,2020-12-24,59.07,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2381,2020-12-28,59.18,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2382,2020-12-29,59.240002,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2383,2020-12-30,58.939999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2384,2020-12-31,58.799999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2385,2021-01-04,59.150002,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2386,2021-01-05,59.09,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2387,2021-01-06,59.540001,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2388,2021-01-07,58.759998,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2389,2021-01-08,58.360001,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2390,2021-01-11,58.049999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2391,2021-01-12,57.450001,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2392,2021-01-13,57.25,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2393,2021-01-14,57.43,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2394,2021-01-15,57.5,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2395,2021-01-19,57.580002,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2396,2021-01-20,57.389999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2397,2021-01-21,57.509998,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2398,2021-01-22,57.689999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
+2399,2021-01-25,58.619999,VZ,high,Verizon Communications Inc.,Communication Services,NYSE
