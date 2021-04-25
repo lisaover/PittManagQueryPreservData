@@ -17,7 +17,7 @@ UPDATE shoes SET shoe_label = 'B' WHERE shoe_id = 3;
 COMMIT;
 
 -- this time user 2 makes modifications but those changes
--- are rolle back (for whatever reason)
+-- are rolled back (for whatever reason)
 
 START TRANSACTION;
 

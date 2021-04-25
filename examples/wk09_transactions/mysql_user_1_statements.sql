@@ -32,7 +32,7 @@ COMMIT;
 -- have been committed represents that there is an ISOLATION between
 -- user 2 and user 1
 
--- Isolution -- TRANSACTIONS do NOT compete with each other. multiple transactions
+-- Isolation -- TRANSACTIONS do NOT compete with each other. multiple transactions
 -- running at the same time do NOT intefer
 
 -- A: atomicity
